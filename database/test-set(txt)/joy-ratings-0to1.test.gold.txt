@@ -1,0 +1,714 @@
+30902	must know blithe mean adj happy cheerful	joy	0.583
+30903	old say smile share one gain another day yeglifer scott_mckeen	joy	0.500
+30904	bridget jones baby bloody hilarious bridgetjonesbaby	joy	0.860
+30905	elaminova sparkle water make life sparkly	joy	0.521
+30906	tired everybody tell chill everything ok fuck tired fake fucking smile	joy	0.042
+30907	gbbo cheer	joy	0.417
+30908	amp much hate dude cheat woman forego please man get lazy amp man get lazy amp pointless	joy	0.160
+30909	got7official jrjyp happy birthday jin young princejinyoungday happyjinyoungday got7 birthday	joy	0.750
+30910	got7official jrjyp happy birthday jin young princejinyoungday happyjinyoungday got7 happy birthday	joy	0.688
+30911	race advance extra achievement individual individual charles townen optimism inspire	joy	0.340
+30912	race advance extra achievement individual individual charles townen inspire	joy	0.258
+30913	watch football match without commentary something rejoice find transmission citys match like today joyful	joy	0.688
+30914	twd come soon happy	joy	0.712
+30915	twd come soon	joy	0.333
+30916	taudeltaphidk thank obama cut elated back home	joy	0.833
+30917	ddogsscout oh almost odd cheerfulness big boss offer muzzle flash blinding accidental guy become good friend	joy	0.396
+30918	gemma simmon bright spot premiere far agentsofshield	joy	0.521
+30919	beautiful day lord make rejoice glad	joy	0.880
+30920	watch amazing lively broadcast kellipeterson lively musically come watch	joy	0.520
+30921	sometimes like talk sadness time want distract friend laughter shopping eat nnmhchat	joy	0.250
+30922	oi thewiggymess absolutely fucking kill 30 min later still cry laughter grindah grindah hahahahahahaha	joy	0.846
+30923	happy live nyc see tomorrow samheughan barbour	joy	0.729
+30924	accept challenge may feel exhilaration victory	joy	0.360
+30925	beautiful day elated	joy	0.854
+30926	beautiful day	joy	0.640
+30927	langston_hunter yeah bro ea hella exhilarate	joy	0.604
+30928	sometimes sad remember margaret thatcher dead rejoice	joy	0.292
+30929	brown nosing listen lot housing minister gavinbarwellmp nhf16 impress	joy	0.354
+30930	brown nosing listen lot housing minister gavinbarwellmp nhf16 impress optimism	joy	0.354
+30931	apkrawczynski possibly kg buy player buy glen minority owner optimism	joy	0.320
+30932	martin roth leave vampa shoe effect brexit bright talented foreigner make feel unwelcome leave uk c4news	joy	0.200
+30933	one thing say keep smile	joy	0.660
+30934	blackish always rollin hilarious	joy	0.833
+30935	blackish always rollin	joy	0.625
+30936	toddler cope new arrival try kill yet cheerfully ask	joy	0.292
+30937	american school lively	joy	0.614
+30938	draw minicomic joyful fold minicomic meditative relax think need halloween	joy	0.562
+30939	malkarii _ korgoth barbaria brutality king julian hilarity ariel hot	joy	0.438
+30940	love memory randomly popninto head smile like annidiot age	joy	0.875
+30941	turtletitan2003 laugh bit course aria shake head calm mirth could listen mikey actually	joy	0.438
+30942	ireneestry can not wait see hun cuddle gossip laughter	joy	0.773
+30943	ireneestry can not wait see hun cuddle gossip	joy	0.669
+30944	god hear voice optimism moment think everything fail	joy	0.312
+30945	bf drive way long day spend 15 min hold make feel well get lucky lucky happy	joy	0.938
+30946	bf drive way long day spend 15 min hold make feel well get lucky lucky	joy	0.708
+30947	love laughing cry work katherinemansfield failure laughter dealingwithfailure	joy	0.667
+30948	love laughing cry work katherinemansfield failure dealingwithfailure	joy	0.635
+30949	tend loosen bit drunk seem pretty cheerful	joy	0.438
+30950	  god chirp burp	joy	0.442
+30951	elated celebrate like obama wait last day office tell nation brother get reparation	joy	0.500
+30952	angel delight everything	joy	0.660
+30953	want let everyone know wonderful people beyourself happy cheerful latenight compliment behappy	joy	0.900
+30954	want let everyone know wonderful people beyourself latenight compliment behappy	joy	0.792
+30955	terribledebatequestion give many laugh afternoon thank twitter hilarious cleverpeople	joy	0.827
+30956	terribledebatequestion give many laugh afternoon thank twitter cleverpeople	joy	0.780
+30957	paraplyene soupper read fun lighthearted cheerful right double cavity	joy	0.620
+30958	point life play christmas music room need winter joyful time rn	joy	0.292
+30959	luis ortiz duck ustinov mean fight leave goldenboyboxe future look bright ortiz boxing	joy	0.288
+30960	another joyful encounter tribez amp castlez meet bartolomeo want know download game find	joy	0.667
+30961	carolyntopol ciara ask scifi movie julie amp jen stare claire phone joey bolt cab honk lmao hilarious	joy	0.820
+30962	carolyntopol ciara ask scifi movie julie amp jen stare claire phone joey bolt cab honk lmao	joy	0.542
+30963	happy birthday brooke56_56 cheer cheerchick jeep jeepgirl idriveajeep jeepjeep cheer	joy	0.688
+30964	little sniffle end song get every time rejoice	joy	0.667
+30965	little sniffle end song get every time	joy	0.300
+30966	mean suppose seem joyous talk rodrigo duterte isis american economy etc think say	joy	0.216
+30967	xenostateofmind yesnnmake smile happynshe deserve happiness	joy	0.750
+30968	keep smile	joy	0.654
+30969	ever wake instantly feel happy	joy	0.646
+30970	jpodhoretz still respect suppose little gleeful day take good	joy	0.417
+30971	amstrado_cpc shittysufanart single tear joyous delete monster bring generation despair	joy	0.317
+30972	quoteofthedayrrif not wild thing young nothing smile oldrrdailyquote quote	joy	0.536
+30973	bright place	joy	0.226
+30974	honored take role joyous day hopefully not fuck	joy	0.500
+30975	reason smile everyday	joy	0.780
+30976	noorbazzi14 lowkey want go chirp anna lol say hi atkin one favourite coach smart care	joy	0.660
+30977	redwine glee	joy	0.500
+30978	redwine	joy	0.236
+30979	tabstamlyn lara_hunt1 next time ill make sure everything sparkle clean	joy	0.340
+30980	take kindness weakness act silly keep 100 be not forté chrisbrown teambreezy	joy	0.288
+30981	take kindness weakness act silly keep 100 be not forté breezy chrisbrown teambreezy	joy	0.188
+30982	envy relentless cheerful smile aim pour rain positive attitude art continually master	joy	0.519
+30983	move weekend amp sugar daddy replace niggas still happy	joy	0.458
+30984	anyone drink sparkling water demon	joy	0.120
+30985	modern family never fail cheer especially phil	joy	0.729
+30986	smile instagramer selfiebestmeselfiemesmilebestmecameraisgreatemojigridlikeforlikefriendgirlboytattoosfamily6packg	joy	0.520
+30987	author_lb awesome 9 yr old grandson run cross country simon whitfield still lot fun cheer	joy	0.780
+30988	18 nmichael carrick strike back net much delight pressure man u fanz mou	joy	0.481
+30989	ruthwalford95 may right since year bad event begin b privately hope get least cz go 1st optimism	joy	0.333
+30990	ruthwalford95 may right since year bad event begin b privately hope get least cz go 1st	joy	0.229
+30991	ditzkoff jpodhoretz metaphor world get hilarity jpod pronouncing humor	joy	0.583
+30992	successful people always two thing lip silence nd smile smile avoid problem nd silence avoid problem	joy	0.357
+30993	geometry today hannah start cry laughter ms canning say pp lol	joy	0.635
+30994	whufc_hub westhamtransfer thehammer _ not see reason optimism point string together bad performance	joy	0.060
+30995	shabazzs name phone easy breezy beautiful amp apologize	joy	0.300
+30996	day jeffprobst jovial tribalcouncil different dark fellow still simply smile survivor	joy	0.260
+30997	  time joyous celebration	joy	0.780
+30998	filthyfrank first time watch vid die laughter keep dude	joy	0.852
+30999	dumteedum not think ian know pavel know charlie bet rob cackle glee hear happen thearcher	joy	0.330
+31000	mou jovial try impress player much player big manutd saf will not tolerate bs manutd	joy	0.192
+31001	smile messenger good	joy	0.604
+31002	imagine teppu get animate madhouse tho gt_lt	joy	0.333
+31003	highly animate even though decompose	joy	0.333
+31004	jk start week strong still go strong optimism	joy	0.731
+31005	jk start week strong still go strong	joy	0.600
+31006	  cailamarsai whole time watch black_ishabc lose glass hilarious mrbabyboogaloo	joy	0.812
+31007	town lively something happen	joy	0.354
+31008	today un arm silence lung rejoice freedom inside color woman count jawbone become razor free	joy	0.625
+31009	sqlbek liver elated not we	joy	0.580
+31010	symmetry key everything must aesthetically pleasing possible hold twin pistol deaththekid bot	joy	0.320
+31011	oii oiii louis_tomlinson nthank always make smile birthday 16 day mind follow gift x225884	joy	0.820
+31012	steeeevie _ breezy luvvvv	joy	0.560
+31013	timehop literally crack see post 2 year ago later	joy	0.880
+31014	timehop literally crack see post 2 year ago later hilarious	joy	0.820
+31015	byekandace can not cheer jigaboo	joy	0.146
+31016	daveweigel laurel hearty handshake	joy	0.458
+31017	bhavnay not mind much smooth thick texture make hearty also glad iced coffee thing uk	joy	0.500
+31018	leejarvis10 can not follow u pal smile	joy	0.312
+31019	love play underlord listen cheery anime music	joy	0.540
+31020	exhilarate feeling work hard feel accomplish whether notice feel fuke good	joy	0.771
+31021	start 22 minute week bestshow4life straightup paradigm shift level mirth	joy	0.458
+31022	someone teach cheer someone	joy	0.250
+31023	greatdismal bencjacob gleeful inspire convinced win last strongman	joy	0.583
+31024	avoid hearty basset hound time presenttime american brave ydxef	joy	0.320
+31025	alternate reality poetryfound comment section give poem cheery thumb disappoint thumb	joy	0.246
+31026	thatbritishdude okay not need go way make sure please everyone make happy	joy	0.231
+31027	think spiritually weighty experience come counterintuitively recognize hindsight levity daily grace	joy	0.440
+31028	thegoatshow gamegrump suck wormhole hilarity escape say weird accurate	joy	0.577
+31029	p_dortch7 make sacrifice make happy	joy	0.180
+31030	ever cheerful	joy	0.740
+31031	markdice agreedso tired nonsense soro must elate	joy	0.040
+31032	get_quenched16 attempt western degenerate 2 imply dprk stoop levity meet devastate nuclear retaliation	joy	0.062
+31033	girlfriend cook dinner spag blow sure need help girlfriend happy	joy	0.800
+31034	girlfriend cook dinner spag blow sure need help girlfriend	joy	0.708
+31035	hannah week survivor find buoyant gen x millenial survivor	joy	0.520
+31036	could happy happy	joy	0.921
+31037	could happy	joy	0.885
+31038	joemrusso happy birthdayyyyyy pretty miss	joy	0.688
+31039	life show hundred reason cry show hundred one reason smile quote mind_console	joy	0.577
+31040	smile mean thousand word also hide thousand problem fact teamfollowback	joy	0.354
+31041	gen 821 nivthe lord smell pleasing aroma say heart never lifelong depravity	joy	0.292
+31042	merriment amp laughter dadwroteaporno kingsplace amp instructional powerpoint presentationwell do concerned amp thank	joy	0.590
+31043	uncle buck tho unclebuck hilarious	joy	0.500
+31044	uncle buck tho unclebuck	joy	0.417
+31045	every time people push prescription pot prohibitionist rub hand glee u hand cannabis amp slavery	joy	0.271
+31046	chrisloesch dloesch modern day bookburning without awful guilt oh gleeful social sharing ahat	joy	0.312
+31047	make happy ethandolan graysondolan	joy	0.904
+31048	ifiwerepresident nmy goal would we miserable yet jovial co other u know civil realization self	joy	0.169
+31049	learning key convert lean someone else door open door successnnx33 smile	joy	0.604
+31050	learning key convert lean someone else door open door successnn x33	joy	0.520
+31051	iniesta still one player idolize barcaa delight watch tell	joy	0.562
+31052	every time hear jtkantor organ kick new sayswhopodcast break goofiest smile	joy	0.712
+31053	well cheery mrrobot	joy	0.646
+31054	gennneral thank gen love miss happy birthday natong duha	joy	0.792
+31055	survivor back survivormillennialsvsgenx happy see jeffprobst	joy	0.660
+31056	survivor back survivormillennialsvsgenx happy see jeffprobst happy	joy	0.605
+31057	essdotx jovial forgiving negro always press upon act hisher selfinterest favor oppressor	joy	0.090
+31058	reginaltsquirge could add jaunty bownor bell	joy	0.479
+31059	tweet tweet chirp chirp loser	joy	0.208
+31060	content life short smile	joy	0.680
+31061	content life short	joy	0.354
+31062	npagliaro1 awesome ps ok odd swap neighborhood hilarious	joy	0.750
+31063	npagliaro1 awesome ps ok odd swap neighborhood	joy	0.520
+31064	excited see nat tonight happy cheery amp even excited get social medium bb18	joy	0.979
+31065	set ideal facing reality honestly cheerfully possible karl menninger 2ndhalfwealth	joy	0.288
+31066	nice way tell someone cheerfully whistle outside apartment door end continue whistle	joy	0.160
+31067	xiankiefer thelincoln book 5 sprightly amp fun cuz reinvigorate harry potter series kid	joy	0.660
+31068	possible go cheery early bad mood possible	joy	0.020
+31069	3 style love zale three sparkle style love stop shop store today	joy	0.532
+31070	kinda wish watch mischievous kiss playful kiss	joy	0.404
+31071	accept challenge life may feel exhilaration victory	joy	0.500
+31072	mariamveiszadeh sick rejoice half	joy	0.438
+31073	tjsotomayor snow pig hilarious lmaooo	joy	0.692
+31074	set goal achieve something big exhilarating excite scare time n bob proctor	joy	0.458
+31075	red sox team equivalent tiger wood heyday mercy	joy	0.417
+31076	wanna always reason behind happiness ill always keep smile matter happen	joy	0.769
+31077	u laugh today laugh hard hope sowe need laughter love	joy	0.595
+31078	u laugh today laugh hard hope sowe need laughter smile love	joy	0.560
+31079	peregrinator1 admittedly go series think see jedi heyday dysfunctional un peacekeeper space	joy	0.250
+31080	take picture awkward smilenme picture day awkward smilenconclusion stop smile npictureday2016 smile ornot	joy	0.404
+31081	wish ipswich tiger good luck game throughout homecoming week cheer city office go tiger	joy	0.763
+31082	ukulele bag fall apart welll least life not yet joysnnquote problemsolve behappy	joy	0.304
+31083	exhilarate take challenge demonstrating explain jamesjoyce ulysse endear amp wonderful	joy	0.654
+31084	yesterday 21 sept 2016 instal new stratagem include audacity rejoice harbour toweri tenaciously follow	joy	0.396
+31085	partydelightsuk 5679787 dm not follow delight party fail letdown	joy	0.164
+31086	partydelightsuk 5679787 dm not follow party fail letdown	joy	0.076
+31087	joyful hope patient affliction faithful prayer roman 1212	joy	0.396
+31088	wahrbear marinarchy diam0ndsapph1re hilarity someone literally openly antiscience call other antiscience	joy	0.385
+31089	smoking weed watch 12 pull somebody else joyous thing ever	joy	0.625
+31090	girl love perfume something bout	joy	0.729
+31091	girl love perfume something bout breezy	joy	0.646
+31092	watch melissamccarthy spy one favorite actress last night watch theboss hilarious want meet	joy	0.780
+31093	bjerkedanielle funnysaying lol hilarious	joy	0.720
+31094	ninaturner mine happen country need moment levity bernblade lisavikingstad	joy	0.271
+31095	manchester united v manchester city happy day efl	joy	0.775
+31096	lostgermain want spar prince smile reach hilt icy eye keep aaron playful look eye	joy	0.442
+31097	accept challenge feel exhilaration victory	joy	0.396
+31098	yes mourinho really stop speak ref try cheer bit	joy	0.300
+31099	thenicebot wsjnordic make world joyful place thenicebot mpn demilovato	joy	0.680
+31100	sevechamber elated thank help apply verify	joy	0.720
+31101	world need laughter love little rm drake	joy	0.521
+31102	bcwinechat common method use make bc sparkle wine	joy	0.346
+31103	bcwinechat common method use make bc wine	joy	0.189
+31104	davuuwart hilarious	joy	0.820
+31105	kermischocolate try cheerful upbeat piece walk history usually artydocu type find trace	joy	0.365
+31106	wrath one kill laughter friedrich nietzsche friedrichnietzsche	joy	0.320
+31107	happiness recipe open mind laughter kind heart amp optimism	joy	0.833
+31108	happiness recipe open mind laughter kind heart amp	joy	0.667
+31109	za_buhmaid happy birthday sweety sweet 21 hun hope u wonderful day wondrful joyful year well last one luv u	joy	0.729
+31110	black 43 read book pu kid schoolmy prayer u wl lv long fulfil joyous peaceful godplease life	joy	0.560
+31111	smile not always mean person happy sometimes simply mean strong enough face problem	joy	0.227
+31112	need levity hub talk wearetyphoon kyle new solo album 7 yo say kyleclark love ur news show 9news 9news lolz	joy	0.604
+31113	ankitaverma45 honey5991 rejoice someone sadness bad karma cencerne definitely people deserve	joy	0.229
+31114	siguemeytesigo happy snapchat manuellynch99 venezuela	joy	0.604
+31115	jessicaz00 zrlondon ditto amazing atmosphere philippplein cheerleader stunt londonevent	joy	0.792
+31116	jessicaz00 zrlondon ditto amazing atmosphere philippplein cheerleader stunt londonevent cheer	joy	0.740
+31117	delight lane tonight witness debut young talent could backbone club coy	joy	0.667
+31118	tweet_faver reaper become reaper find story wiki thru comic_strip animate short	joy	0.375
+31119	remember joe quinn thing glee	joy	0.312
+31120	still laugh bitch take pillow line glee kurt	joy	0.729
+31121	still laugh bitch take pillow line kurt	joy	0.613
+31122	nothing lovely great mate send joyful sweet pic thankyou amy artburstltd xxxx	joy	0.860
+31123	cedricyarbrough love hilarious look forward much kudo pilot speechless_abc speechless	joy	0.917
+31124	eve izzy paige cheerfully sing song together	joy	0.673
+31125	jeffbridg man great job happy success short time mom amp dad smile heaven love bro	joy	0.938
+31126	jovial laughter trump lackey show king use n word truly bizarre sight	joy	0.396
+31127	raygemini get 8 come back week joyous not haha	joy	0.646
+31128	spend 40 big little sis tomorrow beyond happy see mirth mum	joy	0.897
+31129	spend 40 big little sis tomorrow beyond happy see mum	joy	0.854
+31130	shell bribe parent hearty laughter giggle loveet	joy	0.714
+31131	harry_style smile face beat heart thank kind much mind follow 96127	joy	0.792
+31132	wasteful day day without laughter	joy	0.521
+31133	wasteful day day without	joy	0.120
+31134	good morninglet start smilenlet enjoy life cheerful wayndont worry happy	joy	0.893
+31135	skive freshers2016 day nail sunbed gym priority student studentnurse pamper happy	joy	0.923
+31136	skive freshers2016 day nail sunbed gym priority student studentnurse pamper	joy	0.646
+31137	half past midnight loud bang front door tell new rape case edinburgh today nosleep	joy	0.080
+31138	half past midnight loud bang front door tell new rape case edinburgh today joyful nosleep	joy	0.020
+31139	matildaswish great see matilda happy new chair provide access lot new experience smile	joy	0.708
+31140	matildaswish great see matilda happy new chair provide access lot new experience	joy	0.688
+31141	paki applaud sharifs speechi wonder many really understand saidnthey much excited happy	joy	0.481
+31142	wonderful see show token man glasgowgirl uproarious gleeful important amp uplifting go see stratfordeast	joy	0.660
+31143	night sparkle not let go wonderstruck blush way home valeriebot	joy	0.660
+31144	person could manage get bright pink lipstick brand new white dress	joy	0.167
+31145	life iznt please othersnn hell	joy	0.154
+31146	give u20 rugby bet rooster cheer nrl	joy	0.385
+31147	give u20 rugby bet rooster nrl	joy	0.312
+31148	dee5479 electro set pure enjoyment amp exhilarate captivate amp poetic raw exciting	joy	0.821
+31149	sharpen pencil today not sharpen since 1999 exhilarate	joy	0.500
+31150	sharpen pencil today not sharpen since 1999	joy	0.458
+31151	travelanswerman possibility r endless becca u unplug matrix stay salty happy surfing sunset aloha	joy	0.604
+31152	not feel grateful grateful write thing work together good love god cheerful	joy	0.623
+31153	not feel grateful grateful write thing work together good love god	joy	0.365
+31154	want successful cheerful happy dominichussein	joy	0.491
+31155	love pitch far pitchonfox global_tv chill smile	joy	0.854
+31156	love pitch far pitchonfox global_tv chill	joy	0.750
+31157	sad rejoice 72 collegekill	joy	0.340
+31158	banger sit 2013 reason great doing alia rejoice kzfqr	joy	0.438
+31159	beautyfulli_ami guy back picture hilarious	joy	0.625
+31160	literally feel sg happy sam	joy	0.896
+31161	jasperino buoyant sessionsix	joy	0.220
+31162	class cancel due funeral sure appropriate happy sad	joy	0.500
+31163	class cancel due funeral sure appropriate happy sad happy	joy	0.417
+31164	cscheiwiller can not stop smile	joy	0.896
+31165	amount laughter ready leave body united lose unreal	joy	0.500
+31166	whoisthiscaleb could leap foot dramatically plant one foot seat chair let jaunty tune	joy	0.583
+31167	thing grind gear people draw gideon gleeful skinny	joy	0.292
+31168	book start improve relationship tonight take journey fun laughter romance metaphysics htt	joy	0.509
+31169	nice idea collect relevant socialmedia onebut not automatic pls worldsapp chirp appsworld socialmedia danielfeuer merci	joy	0.462
+31170	excited usernameregenerated can not wait wish could get sign copy happy joe_sugg	joy	0.900
+31171	man know juggle not ball itnfunny pun lol hilarious punny	joy	0.760
+31172	man know juggle not ball itnfunny pun punny lol hilarious	joy	0.688
+31173	man know juggle not ball itnfunny pun punny hilarious lol	joy	0.680
+31174	niggas never changedeven kid 29 year old interview seem jovial happy death sisterhe	joy	0.400
+31175	get crush fictional animated character instead real people	joy	0.300
+31176	missrbberry _ blainehale _ kurtstilinski _ beaconscott11 sstilinski_24 bring sparkle ciderhold know much	joy	0.312
+31177	well quote 7 german almost happy	joy	0.333
+31178	well quote 7 german almost	joy	0.260
+31179	love new show driverminnie hilarious	joy	0.788
+31180	joyannreid totally understand point need well messenger laughter piss	joy	0.080
+31181	walterdonovanss mrb_rides_again evil rich white man fucking crony intelligencegovacademia use blithe black fodder	joy	0.080
+31182	rheafraserx take awfy long time spot goal disallow pleasing	joy	0.292
+31183	rheafraserx take awfy long time spot goal disallow	joy	0.188
+31184	proverb 279 ointment perfume rejoice heart doth sweetness man friend hearty counselntruthfmdawnbreak	joy	0.583
+31185	well second half team season optimism	joy	0.458
+31186	well second half team season	joy	0.200
+31187	function regard camshaft exhilaration company cqhshjsi	joy	0.340
+31188	close end revisiontake story love new direction exhilarate endlesspossibilitie amwriting	joy	0.600
+31189	countryside day pleasing	joy	0.667
+31190	pi6ie want achieve level optimism	joy	0.280
+31191	come join cakeclubhour tomorrow afternoon 3 pm bizhour chirp	joy	0.479
+31192	come join cakeclubhour tomorrow afternoon 3 pm bizhour	joy	0.439
+31193	always smile always happy	joy	0.731
+31194	barbarasgarden thank oh much many challenge much rejoicing	joy	0.842
+31195	something opening mail justvery pleasing	joy	0.646
+31196	happy internationaldayofpeace everyone hope world become well place less division happiness keep smile	joy	0.780
+31197	yeldarbkered get quite cheery young soul fan	joy	0.729
+31198	b4caferacer see thing cloud other can not see elate	joy	0.625
+31199	b4caferacer see thing cloud other can not see	joy	0.320
+31200	jmomahony thank support attempt levity	joy	0.182
+31201	ahh voice get well ask play happy	joy	0.688
+31202	harry_style nheart pure smilenso bright love younmore numbernof star nightnkindly follow pleasenharryn90127	joy	0.750
+31203	jackevans711 good whiney jerkass heel since iamjerichos heyday wcw n luchaunderground	joy	0.431
+31204	take yr school proud say get accept yo girl go finish	joy	0.833
+31205	take yr school proud say get accept yo girl go finish happy	joy	0.820
+31206	well wetter dry thank tip val first gbbo hearty guffaw week	joy	0.600
+31207	alicereidy hearty italian man	joy	0.560
+31208	hear parent say proud elicit infinite wave unconceivable glee	joy	0.820
+31209	bother tweet poor men nwhat good unable cheery go quiet miss btw	joy	0.212
+31210	lord thy god midst thee mighty save rejoice thee joy nzephaniah 317 kjv	joy	0.544
+31211	airingoutmyscro nnwell see drink nna playful wink pass pull small lot	joy	0.438
+31212	omg nol love u much love ur cheery face hug crazymac17	joy	0.980
+31213	squishyjiminie aww thank definitely feel much well today message cheer	joy	0.688
+31214	atrumpe hahahahahaha oh gosh hilarious black man try keep racism alive get man	joy	0.402
+31215	happiness choice life not please everybody aldub62ndweeksary	joy	0.460
+31216	chirp look car come wesszzz	joy	0.300
+31217	watch drive food andrewzimmern go devon ave eat nihari make gleeful af	joy	0.780
+31218	yeah paul joyous glorious bb18	joy	0.920
+31219	forget bring extra boxer currently commando starbuck exhilarate feel liberated angelina jolie	joy	0.542
+31220	peaceispossible party accept one another rejoice together ondogubernov26 jciondokingdom cuttie_dove lekibeat	joy	0.417
+31221	brennan cook breezy get back together	joy	0.540
+31222	way rejoice pulpit park city baptist church surrey bc midweek service	joy	0.654
+31223	good master vernon welcome nephew bellario nthere lord thou interruptst merriment	joy	0.312
+31224	luke 114nhe joy delight many rejoice birth	joy	0.625
+31225	lord thy god midst thee mighty save rejoice thee joynzephaniah 317	joy	0.462
+31226	love speechless_abc far hilarious driverminnie wonderful hilarious bravo	joy	0.750
+31227	seangrandillo beg never stop smile deserve happy know beautiful thing life offer	joy	0.540
+31228	lbc_charlotte watch great wall hilarious	joy	0.800
+31229	talkin know not know talkin bout new shitchuckin deuces kanye breezy	joy	0.250
+31230	talkin know not know talkin bout new shitchuckin deuces kanye	joy	0.231
+31231	great meet brightonchoir mjparanzino tonight lively enthusiastic bunch look forward work	joy	0.820
+31232	good part day jesus snuggle embraceto rest arm know love sweetembrace	joy	0.760
+31233	good part day jesus snuggle embraceto rest arm know love sweetembrace delight	joy	0.750
+31234	mrfisher81 attempt levity	joy	0.479
+31235	forget thank _ jusdee _ djolder share therealpeelas daymaking happy video	joy	0.600
+31236	lucina fantastic feel cheery feel cheery	joy	0.875
+31237	may optimism tomorrow foundation today	joy	0.540
+31238	well exhilarate not know could goosebump 2 hrs 5 straight	joy	0.596
+31239	_ bluecouture hilarity people realise racism racism regardless whether one use choice word hilarious	joy	0.271
+31240	1barkcom thank follow look forward tweet look entertaining smile socialmedia	joy	0.660
+31241	1barkcom thank follow look forward tweet look entertaining socialmedia	joy	0.600
+31242	jay_roseee new breezy amp tiller	joy	0.458
+31243	feeling take someone life either scar exhilarate people need realize go die	joy	0.115
+31244	miss lil caramel delight	joy	0.440
+31245	say lover pale green lightnhe hover high moon shine bright	joy	0.420
+31246	alohajonathan atlantafx see clip jail scene sexuality part hilarious	joy	0.542
+31247	greggdoyelstar sure heyday	joy	0.420
+31248	certain hilarity people angry protest national anthem flag act cover 1st amendment	joy	0.312
+31249	breezy breezy breezy breezy buzzinnnnnn	joy	0.469
+31250	ryan murphy create ahs glee nso different	joy	0.302
+31251	lady store say nice eyelash good right optimism verizon	joy	0.385
+31252	love look old status facebook one four year ago day glee many opinion	joy	0.600
+31253	hi luke hemmingsnnnnif flower every time make smile garden please follow nnni love x16092	joy	0.800
+31254	elliot_eastwick play rapper delight 15 minute kip	joy	0.320
+31255	occasionalgod not reason horror popular exhilaration come discomfort enjoyable watch green room	joy	0.458
+31256	true way render happy love work find pleasure francoise de motteville	joy	0.500
+31257	ryuredwings2 discover send animate gif update imessage	joy	0.292
+31258	evening not forget robinhoodhour tonight nnbizitalk bizhour southyorkshire mansfieldhour chirp sheffieldhour nottshour	joy	0.442
+31259	friend send ballon firework textamazing smile	joy	0.778
+31260	friend send ballon firework text amazing	joy	0.771
+31261	every wednesday like visit inmate arkham deliver fruit basket cheery bouquet enhanced interrogation	joy	0.458
+31262	7we4k lordderply like yugioh animate show	joy	0.438
+31263	ok seem still hope bsnl nnow bb speed ok nbut will not thank elate much lest go like	joy	0.340
+31264	weather breezy man can not life always easy	joy	0.500
+31265	news suppose damn happy rejoicing like	joy	0.077
+31266	sophierblake skyspeedway kelvin_tatum chrislouisiwsc wonder kelvin chris smile	joy	0.792
+31267	  blood mucus choke swallow mirth cut short wrong answer take awkward movement persuasivefuck	joy	0.123
+31268	gif ios10 message app hilarious	joy	0.673
+31269	educate child rich educate happy grow know value thing price	joy	0.371
+31270	strictlysimilak something english sparkle wine would good farmhouse cider italian cocktail thank	joy	0.360
+31271	johngdryden gud morning sirkeep smile	joy	0.840
+31272	maureenkamash good question really not know slowly lose optimism	joy	0.058
+31273	traditionalist say bore bore bore rule cheerfully ignore	joy	0.300
+31274	lilymacintyre _ favourite joyful soul	joy	0.528
+31275	ff manihaaamir adrence keep smile	joy	0.479
+31276	wanna get dance everyone bed suck everyone wake hyper happy letsdance dirtydancinginthemoonlight	joy	0.820
+31277	wanna get dance everyone bed suck everyone wake hyper letsdance dirtydancinginthemoonlight	joy	0.708
+31278	pm nawaz sharif adresse uno produce mirth among kashmire well do pak wel do nawaz want demilterization	joy	0.417
+31279	get see last lively talkative able tell love matter	joy	0.280
+31280	go one extra mile see smile	joy	0.640
+31281	nflonfox thedoctorcarson foxsport easy breezy beautiful	joy	0.604
+31282	everyone sparkle water bomb drink mix stuff	joy	0.312
+31283	nerdist cool would stephenbyrne86 animate scene	joy	0.521
+31284	nhlstorenyc cheer teamna_wch hc_man	joy	0.660
+31285	steenfox feel exact way also read akon voice provide hearty chuckle	joy	0.560
+31286	not yet read dutch driver happy here theory could quit driving still great transpo option	joy	0.474
+31287	chiropractor make happy	joy	0.685
+31288	chiropractor make	joy	0.271
+31289	swear get playful ass bf ever	joy	0.729
+31290	tf break boy keep tryna find gfs get ur fuckin right b4 smack yo bitchass deserve 2be happy amp u not deserve ass	joy	0.058
+31291	1xfly sir hilarious	joy	0.602
+31292	otherkinok paradisoadam nice show guy support expect cheer dublinmarathon oct 30th	joy	0.708
+31293	give cheerfully	joy	0.442
+31294	really hate mel sue think hilarious awful	joy	0.140
+31295	die laughter see	joy	0.920
+31296	stephaliciousd afternoon delight	joy	0.539
+31297	910 character woman man fat jovial woman fat useless maybe evil amirite	joy	0.146
+31298	watch screamqueen 2nd season 1st episode twice already still joyful planning watch	joy	0.760
+31299	joy make we grateful gratitude make we joyful n david rast	joy	0.620
+31300	obfuscate magazine passage unite order thine mirth conjunction treat quotient sufficiently leaqiwy	joy	0.280
+31301	coffeeking12 jsavite inject little levity person tweet cokerape tweet obviously idiot	joy	0.096
+31302	idc predict 2020 term cloud long usednnit manager administrator everywhere rejoice	joy	0.286
+31303	fucking playful	joy	0.227
+31304	lil_powwow jweiler0528 fat buoyant day 1 water stuff	joy	0.340
+31305	pummel cheerfully jauntily utterly onesidedly make we hard well fast strong	joy	0.627
+31306	cherie_fitz extremely playful	joy	0.520
+31307	tweetermeyer animate version well	joy	0.088
+31308	job interview tomorrow bright side	joy	0.640
+31309	well stock finish amp list living room move around new editing do amp fit visit inlaw productivityatitsfinest happy	joy	0.771
+31310	well stock finish amp list living room move around new editing do amp fit visit inlaw productivityatitsfinest	joy	0.540
+31311	alooftroye mean tell glee get less gleeful	joy	0.292
+31312	davidplotz commentary write sort playful cynicism	joy	0.604
+31313	branch close sunday 925 honor ironman 703 happen downtown come cheer race participant	joy	0.604
+31314	millieetylerx think everyday glee day	joy	0.264
+31315	remember reflect reginald denny night much like like charlotte think gun lobby must rejoice	joy	0.422
+31316	_ aiseelanhe rejoice gladness nhe renew love nhe rejoice singing	joy	0.583
+31317	zeph 317 lordi midst mighty one save rejoice gladness quiet love	joy	0.660
+31318	yesterday history tomorrow amystery today gift call present livelife humbleness live	joy	0.500
+31319	yesterday history tomorrow amystery today gift call present livelife humbleness smile live	joy	0.434
+31320	itriborg make feel vigorous fine kill say hestia display despair rather joyful	joy	0.212
+31321	girl playful childlike seem lovely relationship can not imagine serious convos cute	joy	0.688
+31322	keep smile life beautiful thing much smile marilynmonroe keepsmile	joy	0.583
+31323	bird chirp cow moo need listen sound nature ensure well	joy	0.480
+31324	pain hip squat sign youthfulness spry right	joy	0.167
+31325	leon cheerfulness always big help	joy	0.625
+31326	know sparkling letter super mario galaxy spell u r mr gay	joy	0.312
+31327	head montalvo wjaxster3bring mirth bitchesnd_bnnick_offermannmeganomullallynsummerof69tour2016	joy	0.440
+31328	mcharlesworth7 forget hair salon look light amp cheery would go coffee amp read book	joy	0.700
+31329	age since shawarma stomach rejoice	joy	0.606
+31330	age since shawarma stomach	joy	0.400
+31331	breezy love	joy	0.646
+31332	lord jesus not want prison want free entice heart beauty truth amp allow rejoice amen	joy	0.288
+31333	viquintis oh yeah never show part session ill plop discord pure hilarity	joy	0.646
+31334	lizbon anomalily gerikkransky sorry levity inappropriate combine love charlotte remind rn	joy	0.280
+31335	hearty thank join tonight delicious british dish menus beerclub	joy	0.604
+31336	y2jake85 yessir also cheer sweden bc lundqvist	joy	0.458
+31337	tiller breezy collab album rapping singing prolly fire	joy	0.583
+31338	fieldyate matthewberrytmr stephania_espn mikeclaynfl frankcaliendo goddamnthe celebrity draft end classic hilarious	joy	0.646
+31339	fieldyate matthewberrytmr stephania_espn mikeclaynfl frankcaliendo goddamnthe celebrity draft end classic	joy	0.500
+31340	jtkola danmericacnn still young spry trump	joy	0.320
+31341	let get astrosa game go already go need 5 attendance cheer victory	joy	0.625
+31342	morning start amazing hopefully whole day go want gongreatday optimism	joy	0.824
+31343	let go need need find joyous path richness extend every direction	joy	0.375
+31344	may man live well longenough leave many joyful widow behind	joy	0.540
+31345	reinervshunter get staystrong smile yourebeautiful	joy	0.729
+31346	reinervshunter get staystrong yourebeautiful	joy	0.542
+31347	miss naivety blind optimism	joy	0.167
+31348	stevestratford9 paultowheyjr classicdrwho bbc bbcdoctorwho get animate imo companion changesmonstersclassic	joy	0.292
+31349	communitysleepcoach look narcoleptic puppy make smile human amp find odd position seek th	joy	0.550
+31350	fun pizza night last night performers_coll crew gorgeous bunch newbie lively exciting	joy	0.833
+31351	solange aesthetically pleasing fave	joy	0.420
+31352	irenelove83 here get brock sable tag team mr mrs awol watch glee	joy	0.400
+31353	give rise eternal home aico thing immolation succeed mother country exhilaration akt	joy	0.500
+31354	always full joy lord say rejoice philippian 44	joy	0.458
+31355	teamgrout glee	joy	0.404
+31356	congress attend midterm liveliness differently constraint qmiv	joy	0.220
+31357	batman animate series gift 90 animation god	joy	0.560
+31358	icyemmax lt take another sip earth shatter soul exhilarate sex think black soul kind gt	joy	0.458
+31359	x x hear darn optimism lead demise lilive zerobot	joy	0.167
+31360	warm smile universal language kindness william arthur ward love kindness	joy	0.654
+31361	people hate nothing happy confident person never mind happy confident	joy	0.340
+31362	people hate nothing happy confident person never mind confident	joy	0.318
+31363	today answer call college rep not realize get hear part lively debate evolution real	joy	0.358
+31364	wenniss cheer team sweden today team north american	joy	0.352
+31365	okashohime return joyous focus pastelhaired girl wawa okay tooooo squeal raise eyebrow	joy	0.604
+31366	headfirst_dom often imagine hoe moon would feel meet jovial moon special	joy	0.500
+31367	sardesairajdeep narendramodi u seem 2 b happy abt dvlpt nything dat fail modi make u elate even cost de country	joy	0.270
+31368	jstor lingua obscura article always delight	joy	0.580
+31369	reflection grind real work 2 job amp school ksudsm ksu recruiter instructor tumble cheer gradschool	joy	0.300
+31370	reflection grind real work 2 job amp school ksudsm ksu recruiter instructor tumble gradschool	joy	0.191
+31371	johncrookshanks elizabeth smith say cheery smile pleasure meet sir travel	joy	0.548
+31372	taurus female beautiful sparkling jewel glow moonlight	joy	0.560
+31373	jimrichmoriarty life yell surprise surpriiise chirp cheerfully wicked grin lip	joy	0.620
+31374	coworker happen friend mine gun instead baby workplace hilarity	joy	0.312
+31375	coworker happen friend mine gun instead baby workplace	joy	0.312
+31376	love hearty negro laugh jade xavierdleau let relochte	joy	0.769
+31377	howcaniapply radioscarboro much delight	joy	0.769
+31378	lethbridgecity love playful guy become offline beepbeep	joy	0.673
+31379	love new show driverminnie	joy	0.729
+31380	  light class great person good cheer	joy	0.896
+31381	ginger_naylor connie come back hey seem bit lively	joy	0.480
+31382	fear united bottle heart would actually collapse laughter	joy	0.688
+31383	brianabanksxoxo send ya playful nibble	joy	0.700
+31384	toystoriesint look fab make big screencant wait see evolve amp bright future little toy people	joy	0.604
+31385	lunatic asylum place optimism flourish	joy	0.458
+31386	good morning welcome new day life heart mindfulness smile zen	joy	0.900
+31387	good morning welcome new day life heart mindfulness zen	joy	0.771
+31388	lord god midsta warrior bring victory create calm love rejoice singing	joy	0.438
+31389	_ wednesdaychild need cheer	joy	0.167
+31390	pakallman get go tag link please lot friend love follow unintentional hilarity	joy	0.671
+31391	mistersalesman thinkpostsdaily smile not necessary mean happysometime mean strong	joy	0.260
+31392	wildrovertour thank follow good website cheer hassle	joy	0.708
+31393	iongroadhome aesthetically pleasing every single day even pretty wake tired always	joy	0.375
+31394	eleanor_bink least blake lively ryan reynold still together god bless beaut couple	joy	0.475
+31395	macengelprof fact levity movie theater post actually play na serve good part movie like thehulk	joy	0.302
+31396	melissa benoist grant gustin musical crossover episode glee origin arrowverse	joy	0.646
+31397	readanerd cheer chuck	joy	0.240
+31398	love barberceleste insta hilarious	joy	0.769
+31399	love barberceleste insta	joy	0.680
+31400	presentation propensity hilarity play large part determine funnyoffensive ratio well thought go	joy	0.400
+31401	pochettino buoyant complimentary young player say attention turn middlesbrough thfc bbclondonsport	joy	0.380
+31402	incredible nawaz sharif say pakistan victim terrorism amp talk abt development pak incredible control laughter	joy	0.346
+31403	comforting amp jubilant place find joy good passionate abt company keep	joy	0.520
+31404	breezyweeke hey breezy wanna give coffee post snap please	joy	0.228
+31405	cry msleamichele snapchat bring serious glee feel	joy	0.481
+31406	future bright remember	joy	0.577
+31407	doubt smile good medicine	joy	0.875
+31408	always hurt somewhere always tired lively	joy	0.021
+31409	vile piece scum rejoice fact dead child inhuman say bad still hope karma knocks	joy	0.000
+31410	attitude toward struggle equally important action work optimism	joy	0.479
+31411	attitude toward struggle equally important action work	joy	0.340
+31412	moment levity n charlotte dude rollerblade go skate protester well wear short short amp blow whistle	joy	0.398
+31413	profitable fx money manager client not mind high profit share take since happy return make	joy	0.440
+31414	vbadawey every day need choose hope fear diversity division justin miss optimism change sunniness love	joy	0.404
+31415	msdhoni dhoni bcoz calmness nd match win finisher nd proud miltirian dadhusband nd wonderful humanbeing nd smile	joy	0.657
+31416	msdhoni dhoni bcoz calmness nd match win finisher nd proud miltirian dadhusband nd wonderful humanbeing nd	joy	0.542
+31417	piersgough thoroughly lively imaginative developerssager always challenge we well well islingtonsq	joy	0.340
+31418	sophtulig personally prefer happy	joy	0.500
+31419	finally brace can not stop smile	joy	0.940
+31420	outlanderhome film tobiasmenzie smile please	joy	0.542
+31421	beastfiretimdog gaming site lean ps2 heyday lean 360 last gen gen start vitriolic mostly	joy	0.207
+31422	hard cheer team north america since we get take	joy	0.375
+31423	wanna go blithe read w goat	joy	0.208
+31424	urclassless think yawn actor die drug overdose glee	joy	0.144
+31425	urclassless think yawn actor die drug overdose	joy	0.042
+31426	want highlight bright ever get lose someone look dark find	joy	0.375
+31427	want other happy practice compassion want happy practice compassion dalai lama	joy	0.555
+31428	menglishmusic thank fantastic evening brilliant show truly sparkling talent night quickly	joy	0.780
+31429	lot positive tonight clean sheet payet get free kick practice zaza look lively make lot good run	joy	0.745
+31430	look we smile photograph see secret behind fake smile ω facta fact life	joy	0.458
+31431	impractical jokerspractically genius bqquinn good4thesoul impracticaljoker bingewatche	joy	0.750
+31432	impractical jokerspractically genius bqquinn laughter good4thesoul impracticaljoker bingewatche	joy	0.708
+31433	ilofitt laughter happiness spiritual mental physical pizza kid pizza work hard facet fitlife	joy	0.729
+31434	somong_mgmt need 2 bust elite dc need job 4 need clean blithe inner city rebuild housingcont2	joy	0.300
+31435	pixelmonsteryt teamge0 izedeptic ztumtum crimtidetv ltgrandslam slinkercorn bahahahaha dean look hilarious damn get fat	joy	0.500
+31436	accept challenge literally even feel exhilaration victory george patton	joy	0.400
+31437	sowerash007 great hear one thing make feel like hearty chicken noodle soup right	joy	0.460
+31438	woah overtime exhilarate seat hand mackinnon wow wch2016	joy	0.827
+31439	irony hilarity make taylor lautner super cold time lose god miss show screamqueens	joy	0.700
+31440	bet pawpaw good time rejoice heaven first birthday	joy	0.660
+31441	watch ny phil webcast something miss remind blithe journey end see bway might gershwin	joy	0.292
+31442	night sparkle not let gonim wonder strucknblushe way home	joy	0.746
+31443	please stop merriment annoying	joy	0.083
+31444	love singing not time weekly choir come kwoir theartworksuk tomorrow choir musiclondon	joy	0.441
+31445	love singing not time weekly choir come kwoir theartworksuk tomorrow choir glee musiclondon	joy	0.420
+31446	happy everything good see good side everything	joy	0.627
+31447	happy everything good see good side everything	joy	0.604
+31448	happy everything good see good side everything optimism	joy	0.460
+31449	crossfit houstonla homefolks spry propriety regime ajafue	joy	0.271
+31450	understand nowif pleasing earthen be not want tired	joy	0.167
+31451	lovely story actually see ruth hubby cashcow sunriseon7it funny leave phone happy	joy	0.740
+31452	inglorious distinguished try auction joviality touch back side auction otherwise advance order vawyzad	joy	0.423
+31453	know beauty smile good curve	joy	0.760
+31454	boy fall make miss cheer friday night much sooooo bad bulldogslway	joy	0.380
+31455	babylonian convince mom watch killgrave give literal nightmare watch last episode four time smile	joy	0.396
+31456	babylonian convince mom watch killgrave give literal nightmare watch last episode four time	joy	0.360
+31457	bratzhead happy birthday beautiful cheerful sister ever llnp	joy	0.860
+31458	jaredwyand trump not laugh anyway expression never change smile moment levity nothing racist	joy	0.320
+31459	soboleskih okay hilarious	joy	0.650
+31460	homoaesthetics yesyesye like jd close cahracter similar blaine optimism ability crack tough character	joy	0.680
+31461	  light class great person good cheer	joy	0.810
+31462	dayveesutton big thank like little pumpkin small 4 playful amp wake morning	joy	0.648
+31463	end day get to happy	joy	0.600
+31464	would enrique sub busquet hilarious	joy	0.583
+31465	would enrique sub busquet	joy	0.271
+31466	vincent look super lively boy hattrick perhaps lol	joy	0.583
+31467	nick_offerman amp meganomullally summerof69 show raw sexuality pure mirth thank belly laugh butt sex jape	joy	0.708
+31468	marcorubio mention high schoolaged daughter joyous occasion go college bring fear trepidation	joy	0.271
+31469	ukulele bag fall apart welll least life not yet	joy	0.240
+31470	ukulele bag fall apart welll least life not yet optimism	joy	0.208
+31471	everyday wake different spursofficial player sign contract extension love future coy	joy	0.888
+31472	everyday wake different spursofficial player sign contract extension love future bright coy	joy	0.880
+31473	swear people not wanna see happy like try anything fuck get go	joy	0.040
+31474	meogysdailyvocabenhancment elation quality state elated feeling state great joy pride	joy	0.375
+31475	accept challenge feel exhilaration victory george patton quote yeg	joy	0.440
+31476	accept challenge feel exhilaration victory george pattonnquote motivation entrepreneur	joy	0.312
+31477	crazace76 look cool animate well pixel art	joy	0.458
+31478	tomorrow first day falland elated	joy	0.900
+31479	appreciate amp enjoy life nuse smile help other use	joy	0.562
+31480	shawnstockman would hilarious not frighteningly point go bad apple national disgrace	joy	0.125
+31481	feel like one friend bring freshman class pre game early year bc keep smile	joy	0.500
+31482	jmrescue brilliant lol hope see horse tomorrow cheer equestrianhour	joy	0.385
+31483	happy birthday shorty stay fine stay breezy stay wavy daviistuart	joy	0.580
+31484	philrosenthal perhaps miss another season ihwphnyou joyous gleeful prospect eat	joy	0.708
+31485	blast playing game hear testimony pastor jeremys house fellowship food praise gospel coffey1617	joy	0.854
+31486	blast playing game hear testimony pastor jeremys house fellowship food laughter praise gospel coffey1617	joy	0.808
+31487	get dick recently right happy sick smile life good	joy	0.520
+31488	learn smile good morning go long way say thankyou go even quote retweet inspire	joy	0.646
+31489	well mood today bring tease flirt xdresser laughter roleplayer also confession secret underdesklos	joy	0.689
+31490	beingbrilliant johnmurray welcome genuinely make give head wobble realise important life	joy	0.479
+31491	mywrldsbl wolf want hihi	joy	0.375
+31492	mywrldsbl wolf want hihi breezy	joy	0.260
+31493	peoplelikemebecause razor wit amp sparkling personality	joy	0.519
+31494	take little make child life joyful work hard make life hell middleeasteye peace	joy	0.200
+31495	soul search like announce choose chrissyteigen amp nicolerichie adopt sister due hilarity	joy	0.600
+31496	animate little thing might post tomorrow since good thursday nice	joy	0.600
+31497	killerinasuit get ban still lurk corner underneath bed sofa much eyepatchs delight	joy	0.250
+31498	erinandrew dwts make night every show hilarious	joy	0.923
+31499	erinandrew dwts make night every show	joy	0.800
+31500	late new optimism keep raider oakland live right kcbsnews nfl meet wlott amp schaaf talk new stadium	joy	0.400
+31501	epicurus man least dependent upon morrow go meet morrow cheerfully	joy	0.400
+31502	everyone hate twice kinda get bop bump rn cheer	joy	0.241
+31503	bit cook actual taste ok cooked raw bit taste awful 55 hilarity 15 taste 05 safe ingest	joy	0.188
+31504	gothictana delight	joy	0.542
+31505	get deviant differently enigmatic bellboy passage correct thy ring jaunty iwldpe	joy	0.346
+31506	nadyaginsburg thankyou unfailingly bring much joy life incredibly talented maker mirth	joy	0.722
+31507	try find good negative negative turn goodnanxietyrelief optimism openminde	joy	0.438
+31508	pregame nerve settle il cheer home guy aflcatsswan proudlysydney goswans sydneyswan swanssupport	joy	0.396
+31509	big thank brad pitt trashy way bring modicum levity otherwise lame week political	joy	0.300
+31510	winlose draw vs lfc football fan rejoice west ham amp chelsea fan beat shit council house coy	joy	0.673
+31511	envy ice least give warmth melt taylorlautner twilight quote	joy	0.385
+31512	envy ice least give warmth melt taylorlautner twilight hilarious quote	joy	0.330
+31513	literally die amp live time catch adrian_ver twitter not follow life basic hilarity	joy	0.676
+31514	literally die amp live time catch adrian_ver twitter not follow life basic	joy	0.354
+31515	charm liveliness also weakness	joy	0.271
+31516	want darren open video appreciate hilarity	joy	0.458
+31517	okay deepbreathe sydneyswan cheer cheer amp see side peep aflcatsswan proudlysydney	joy	0.780
+31518	come bullskitcomedy fundraiser fri 8 pm thescottblock pie face hilarity	joy	0.600
+31519	come bullskitcomedy fundraiser fri 8 pm thescottblock pie face	joy	0.405
+31520	faultlessfacade ltshe really say response perceive force jovial tone slide jeep ontogt	joy	0.240
+31521	thus begin 2 week holiday nholiday cheer ghastinoir rest	joy	0.860
+31522	thus begin 2 week holiday n holiday ghastinoir rest	joy	0.792
+31523	brigetjonesbabys brigetjonesbaby good film hilarious good funny	joy	0.896
+31524	t_newhouse13 granny would say not know chirp	joy	0.440
+31525	mon celtic give we something cheer place empty soak amp wee nephews birthday ffs start well drop	joy	0.369
+31526	girlandlurcher yep peep always cheer other fine drool gbbo x	joy	0.620
+31527	enews breezy deserve	joy	0.400
+31528	simmy_hanley schrise also delight	joy	0.542
+31529	simmy_hanley schrise also	joy	0.340
+31530	nearly aesthetically pleasing enough lol need ps phone	joy	0.460
+31531	someonesanidiot sean10lynagh due hearty lawsuit nascar raise beer price 007 accommodate loss	joy	0.167
+31532	veryeloise gunna make cry need glee day	joy	0.240
+31533	bad kurt literally glee	joy	0.361
+31534	bad kurt literally	joy	0.208
+31535	whatever decide make sure make happy	joy	0.583
+31536	whatever decide make sure make	joy	0.440
+31537	lea mini set tour glee heart cry tear happiness sadness	joy	0.492
+31538	light shine thru clear sparkling stream piss sight woman never know ofalso tell tht system ure system healthy	joy	0.417
+31539	treat joy laughter form worship spiritual warfare live victory worship	joy	0.688
+31540	treat joy laughter form worship spiritual warfare laughter live victory worship	joy	0.625
+31541	embitteredicon sam grin steve lip murmur word playful tone want shirt sure could accommodate	joy	0.500
+31542	peoplelikemebecause people use hashtag brag interested please other pleasing god	joy	0.396
+31543	boy rejoice badg corner reclaim first social year cluboftheyear	joy	0.646
+31544	ari look hilarious oh g much	joy	0.708
+31545	people call pov kx4 make night hilarious	joy	0.771
+31546	people call pov kx4 make night	joy	0.480
+31547	hilarity ensue	joy	0.542
+31548	5 person renown cheerful expectation solutionspleasure principle back hsnhzmjsc	joy	0.482
+31549	being physical reality reflection always joyful extend life	joy	0.521
+31550	xgame look exhilarate look forward see	joy	0.740
+31551	like say plenty cheddar cheese go around everyone	joy	0.819
+31552	like say plenty cheddar cheese go around everyone smile	joy	0.583
+31553	howl laughter well do bezza bakeoff gbbo	joy	0.940
+31554	yap_yip uncertainty halsey tease lip curve jovial smirk	joy	0.438
+31555	scottlocker220 thank notification come nick time cheer retweet	joy	0.708
+31556	715d1ni buy steam port vice city delight billie jean soundtrack	joy	0.688
+31557	never make decision angry gt_lt never make promis happy	joy	0.231
+31558	glacierqxeen nnwhoo welcome greet cheerfully	joy	0.688
+31559	thenthapple haha like optimism cause not make situation less mind boggle	joy	0.480
+31560	mrstarax plategotate yes rejoice	joy	0.780
+31561	sometimes get sit back proud please well	joy	0.380
+31562	dj_musicologist disney 1994 animate musical film thelionking influence williamshakespeare hamlet song eltonjohn	joy	0.440
+31563	jackhoward christmas episode genuinely tear laughter	joy	0.716
+31564	make squirrel friend today give core plum eat seem happy	joy	0.767
+31565	julwhite chirp chirp	joy	0.519
+31566	kaijinboyfriend animate much recently technologywise make nice combinationlook	joy	0.320
+31567	indermethil true rejoice fact sign quality young cb need one least marcbartra mebbe p	joy	0.292
+31568	priny_baby happppy happppyyyyyy happppppyyyyy haaapppyyyy birthday good friend love lot chapter22 bdaygirl love	joy	0.958
+31569	priny_baby happppy happppyyyyyy happppppyyyyy haaapppyyyy birthday good friend love lot chapter22 bdaygirl happy love	joy	0.900
+31570	carras16 still bright	joy	0.460
+31571	accept challenge feel exhilaration victory nnmbmclisse	joy	0.420
+31572	sanatana lopez definitely glee	joy	0.625
+31573	sanatana lopez definitely	joy	0.540
+31574	maybe entire russian team test positive meldonium north americans get replace optimism	joy	0.292
+31575	maybe entire russian team test positive meldonium north americans get replace	joy	0.180
+31576	cool see smart cowboystwitter folk chirp stuff review join	joy	0.520
+31577	try find good negative negative turn goodn anxietyrelief openminde	joy	0.229
+31578	andiymouse jordana_brown f1ghtcamp sure hell fine always change beer cheer squad	joy	0.560
+31579	adult remain jovial amidst bad news	joy	0.220
+31580	ill find smile even laugh joke not even think particularly funny know love	joy	0.620
+31581	catch richardegrant wonderful new series ealingcomedie infectious delight every interview film clip	joy	0.667
+31582	survive spintrye get stair hilarious tho jellylegs	joy	0.792
+31583	lively evening ot one	joy	0.380
+31584	bridesmaid dress carnal delight addition separate rfpbax	joy	0.417
+31585	wuffinart c heartfelt condolence glad pass levity love heart	joy	0.188
+31586	root canal therapy bad reputation past new technology allow comfortable procedure dental	joy	0.417
+31587	root canal therapy bad reputation past new technology allow comfortable procedure smile dental	joy	0.327
+31588	well draw lively eflcup	joy	0.538
+31589	laughter powerful thing everybody deserve laugh u like shitty romcom get giggle outta planet uranus power u	joy	0.560
+31590	get much fan vixx keep smile	joy	0.833
+31591	lethalweapon suicidal vet ptsd fucking funny let hilarity begin	joy	0.640
+31592	xmaseveevil1 msm rejoice fool we body double long amp death secret like hawking	joy	0.229
+31593	not fuck people not smile back corridor	joy	0.062
+31594	lakeline still find please	joy	0.500
+31595	wish not 25 hilarious autocorrect fail	joy	0.392
+31596	dehydrate exhausted stress still bless	joy	0.337
+31597	dehydrate exhausted stress still bless optimism	joy	0.269
+31598	whu old bill free time game chelsea come around nthat lively say leastnafc	joy	0.771
+31599	u not learn swim keep work denser less buoyant swimming scary also u can not swim	joy	0.154
+31600	semore let get mirth see keepthetradition	joy	0.560
+31601	senpai_vanilla would height hilarity fact adult swan highly likely attack	joy	0.240
+31602	nhlstorenyc teamna_wch nhlnycsweepstake fun watch team north america cheering team canada	joy	0.625
+31603	sport top seed johnson chase double delight tour championship	joy	0.458
+31604	meth documentary exhilarate	joy	0.339
+31605	head north arrive breezy cave smell sweet glance watch run 15 minute late	joy	0.354
+31606	elevens_eggo _ el turn around smile hug gently	joy	0.667
+31607	selbsie yapyap upon time avid fanfiction patron kpop heyday	joy	0.542
+31608	tell truth make someone cry well tell lie make someone smile truth lie cry offalonehugot	joy	0.271
+31609	tell truth make someone cry well tell lie make someone smile truth lie cry smile offalonehugot	joy	0.200
+31610	happy mean let go clinging attachment thing life wednesdaywisdom life	joy	0.417
+31611	tired body mind sparkle tooth say follower good night apocalypse good luck aspie	joy	0.417
+31612	refuse chirp chirp girl	joy	0.146
+31613	hard stifle laughter overhear comment really amazing bad way	joy	0.646
+31614	walk little boy red shirt56 year age shout distance 3 meter jovial manner say	joy	0.620
+31615	ask one thing guy tonight get happy proud disappointed football timetoclimbthetable	joy	0.580

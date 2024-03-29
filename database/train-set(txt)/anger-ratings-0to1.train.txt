@@ -1,0 +1,857 @@
+10000	fuk heck move fridge knock landlord door angry mad	anger	0.938
+10001	indian uber driver call someone n word not move vehicle jump disgusted	anger	0.896
+10002	dpd_uk ask parcel deliver pick store address fuming poorcustomerservice	anger	0.896
+10003	ef whichever butt wipe pull fire alarm davis bc sound asleep pissed angry upset tired sad tired hangry	anger	0.896
+10004	not join btcare put phone talk rude take money acc willynilly fume	anger	0.896
+10005	blood boil	anger	0.875
+10006	still get whole season wentworth watch stupid cunt work ruin we _ _ kirstyga rage oldcunt	anger	0.875
+10007	bt_uk tracking show equipment deliver not service suddenly delay already 3 week fume	anger	0.875
+10008	teamshanny legit furious people fucking idiot	anger	0.875
+10009	suppose work wtf dude thank piss	anger	0.875
+10010	mad power ranger incense furious	anger	0.667
+10011	will not use use mothercareuk mothercarehelp guy can not get nothing right fume	anger	0.854
+10012	bitch aggravate like inspire big cunt know man kind	anger	0.854
+10013	dapperlaugh come glasgow night work fucking gutte wait appearance age rage	anger	0.938
+10014	fuke fume	anger	0.854
+10015	zero help up customer service push buck back forth promise callback not happen anger loathe	anger	0.854
+10016	arizonacoyote mention gra guy stop let 2 ppl front go wtf blood boil	anger	0.854
+10017	hate lawn mower soul condemn fiery pit hell	anger	0.833
+10018	people offend kendall end photo shoot like seriously shut fuck	anger	0.833
+10019	block everyone everywhere post storm think everyone aware damn rain quit damn	anger	0.812
+10020	make buddy cry bitch wait revenge	anger	0.812
+10021	bes not tell true blooded hoopjunkie switch fcn team juz destroy team juz not insult	anger	0.891
+10022	get response irate customer amazon nwhy can not understand always amazon faultncarrierfault	anger	0.812
+10023	taser immobilize taser someone fuck need shoot one second later really sick rage wtf murder	anger	0.812
+10024	lekingcoq mistaaggy giovanniidc way blood boil little bastard	anger	0.792
+10025	actually fume nothing wear saturday	anger	0.792
+10026	divamagazine straight people even arse straight guy think mean threesome fine angry fuming	anger	0.792
+10027	bloody parking ticket fume	anger	0.792
+10028	ever find people around really irritate sometimes right	anger	0.792
+10029	get angry people not know not stop sign francis foster road	anger	0.792
+10030	fuck boil inside go to good let	anger	0.792
+10031	vodafoneukhelp vodafoneuk wow bill 4477 hav text u prove take 148 swine fume con	anger	0.792
+10032	blame whole season natalie season would different turn back alliance piss	anger	0.792
+10033	since update iphone lose power nearly 40 fast furious	anger	0.792
+10034	bringyouhome2 fly fit rage fair	anger	0.792
+10035	unbelievable take 10 minute get barclaysuk fault call hang fume treatcustomersfairly	anger	0.792
+10036	ggreenwald susansarandon blame 5 fucking idiot put world middle tantrum one	anger	0.792
+10037	sunandbeachbum people infuriate	anger	0.792
+10038	rtrn94 mine party decide party slowly transform vengeful hellcult white male resentment	anger	0.792
+10039	angry wishshoppe order 6 month ago place order 500 card bill never receive ndisappointe	anger	0.771
+10040	still can not log fucking snapchatsnapchat snap	anger	0.900
+10041	thomsoncare sam yes helpful need sort asap keep promise stuff not happen fume	anger	0.771
+10042	someone let snake house bet ya_boi_huck kill bugger get hand rage huckfp2	anger	0.771
+10043	ef whichever butt wipe pull fire alarm davis bc sound asleep pissed upset tired sad tired hangry	anger	0.771
+10044	dapperlaugh come glasgow night work fucking gutte wait appearance age	anger	0.733
+10045	feel furious	anger	0.771
+10046	mexican lady irritate fuck outta lil preschool fucking kid welfare amp allllat smh	anger	0.771
+10047	still can not log fucking snapchat snapchat	anger	0.771
+10048	blame whole season natalie season would different turn back alliance piss bitter	anger	0.771
+10049	people irritate mf soul	anger	0.771
+10050	angry	anger	0.750
+10051	people fuckin irritate	anger	0.750
+10052	leesyatt cruel cruel man therewillbeblood revenge	anger	0.840
+10053	way ur angry literally feel ur blood boiling	anger	0.750
+10054	katzeanilothei amount greedy mooching make snarl	anger	0.750
+10055	mind rage want end	anger	0.750
+10056	absolutely fume woman jump prebooked taxi drive	anger	0.750
+10057	nothing hateful bitter fag	anger	0.750
+10058	fitnessfirstau something need do people hog machine nobody use 3 machine one time angry notfair whypay	anger	0.750
+10059	jrdingy96 ikr people still get grudge reason like wtf	anger	0.750
+10060	lynnew69 say talk will uncontrollable animal move another link comment help fume	anger	0.750
+10061	paulbushnell25 ee bad news order online not go happen order phone furious	anger	0.844
+10062	angry wanna cry	anger	0.750
+10063	ooooooooh god uuuugggghhhhhhhhh	anger	0.750
+10064	boycott dunkindonut till butter pecan come back furious	anger	0.750
+10065	2016 black people still fight recognize human being cantsleep angry	anger	0.885
+10066	mom cut phone furious	anger	0.750
+10067	thing feed naay rage something brother fill gap	anger	0.750
+10068	can not believe achille kill angry	anger	0.750
+10069	lose couple niggas want revenge put coach	anger	0.875
+10070	mjmralph poor package amazon fulfil seller furious much	anger	0.750
+10071	outrage black man kill another black man street	anger	0.750
+10072	make fucking irate jesus nobody call ppl like hajime abusive stop strawmen lmao	anger	0.750
+10073	absolutely fume scratch car	anger	0.750
+10074	ms_heartattack holy shit bee sting like fuck die	anger	0.553
+10075	fuk heck move fridge knock landlord door mad	anger	0.729
+10076	dislike people get offend littlest shit	anger	0.729
+10077	fuck suppose lunch dinner money work furious hangry day5	anger	0.729
+10078	justyne_haley one person ruin season 13 angry	anger	0.729
+10079	fuck suppose lunch dinner money work hangry day5	anger	0.729
+10080	firstleed bus unreliable e ticket app unable get two bus late work fume useless reply	anger	0.864
+10081	indian uber driver call someone n word not move vehicle jump disgusted offended	anger	0.729
+10082	liberal outrage king say nword really anger white yuppie progressive go fuck shame black	anger	0.863
+10083	pay chicken panerabread not even get go 4 dollar customer angry	anger	0.729
+10084	mistake half assed excuse burn hell forever	anger	0.729
+10085	manutd year irrelevant absolute joke manutd ticket fume noloyalty joke notimpresse	anger	0.873
+10086	hollyrobinson _ _ part 2wa buzz cheeky squashie twothis expectedsort food angry coopuk coopukfood	anger	0.538
+10087	taser immobilize taser someone fuck need shoot one second later really sick wtf murder	anger	0.729
+10088	bes not tell true blooded hoopjunkie switch fcn team juz destroy team juz not	anger	0.729
+10089	churdallan fuck coupon goal rage	anger	0.729
+10090	lvg bribe ref utd personal revenge foul prick	anger	0.729
+10091	whole clown rage scare shitless go to go cry room	anger	0.729
+10092	bad juror ever michelle nicole big threat bitter bb18	anger	0.729
+10093	twitter picture make fume	anger	0.729
+10094	leesyatt cruel cruel man therewillbeblood	anger	0.775
+10095	really madden career game suck ea sport piss poor job every year shit	anger	0.867
+10096	neofundie fitchest ha right san jose ca offend right dave go walk something next time	anger	0.831
+10097	fitnessfirstau something need do people hog machine nobody use 3 machine one time notfair whypay	anger	0.708
+10098	wonder american city next protest police shooting next smh whenwillitstop angry howmanymoretime	anger	0.708
+10099	politico realdonaldtrump another angry white man	anger	0.708
+10100	wee pop sock keep fall inside shoe rage	anger	0.759
+10101	majority people irritate fuck cba people ahahah	anger	0.862
+10102	oscar_perria multimillionaire spoil brat get self righteous huff bc friend muslim non starter bye	anger	0.708
+10103	will not use use mothercareuk mothercarehelp guy can not get nothing right	anger	0.708
+10104	kingvee _ not provoke anger	anger	0.708
+10105	complain time wonder people never want see acc rile stfuuu	anger	0.708
+10106	blood boil	anger	0.708
+10107	leave rulenimber 1 carpet clean furious worsethananatomicbomb accidentlyspillbeeronthecarpet	anger	0.708
+10108	darklunefantasy wallah blood boil need take nap ugh	anger	0.817
+10109	swear devincameron23 block go hit back	anger	0.708
+10110	jennylhowe angry student racist teacher stop class let go	anger	0.708
+10111	block everyone everywhere post storm think everyone aware damn rain quit damn rage	anger	0.708
+10112	fume ball anger today	anger	0.708
+10113	not find till today due bff tell disgusted offend	anger	0.750
+10114	verizonsupport thank say wife get iphone today lose eta thank angry	anger	0.688
+10115	firstbsa turn surprised late work fume	anger	0.688
+10116	police officersshould right shoot human being without provocation wrongnnorconservative michaelaangelad	anger	0.688
+10117	angry already	anger	0.688
+10118	  flat party instantly get bollocke fume	anger	0.690
+10119	xemitsellsmagic add tracking resent	anger	0.688
+10120	foxnew sheriffclarke foxnewsinsider man affront justice system	anger	0.688
+10121	someone let snake house bet ya_boi_huck kill bugger get hand huckfp2	anger	0.764
+10122	chronavt ummm blog say simon stehr fake 7thill expect investigation forthwith outrage	anger	0.688
+10123	groupanon black armed thug record carrying gun illegally get shoot black cop outrage jokelet em destroy town	anger	0.688
+10124	  wake say try change nappy rage	anger	0.688
+10125	someone need tell candice shell stick shitty pout wind change gbbo	anger	0.688
+10126	brian5or6 turn shit home button accessibility nnwhen innovation become mind fuckery iphonephonehome	anger	0.688
+10127	love people make plan without actually include process rage	anger	0.688
+10128	ggreenwald smh remove ideologically bankrupt opportunistic establishment burn bridge social contract anger	anger	0.688
+10129	brendancoot outrage party nominate lie corrupt person receive donation nation support terror	anger	0.766
+10130	edquinn63 even forget pick ur fave child school offend	anger	0.688
+10131	get angry people not know not stop sign francis foster road rage	anger	0.688
+10132	soyoprincess irritate inch thick make mask	anger	0.667
+10133	churdallan fuck coupon goal	anger	0.667
+10134	natalie one top three favorite tooface bitter	anger	0.667
+10135	dcexaminer democrats voter zero tolerance honesty associate honesty anger hate	anger	0.667
+10136	gerfingerpoken rage crookedcourt say rage many time explain away brutal killing petit hayes amp komisarjevsky	anger	0.667
+10137	towhy can not brother protect one another one serious make furious not mislead think fred mayfield	anger	0.578
+10138	  wake say try change nappy	anger	0.667
+10139	manutd year irrelevant absolute joke manutd ticket noloyalty joke notimpresse	anger	0.667
+10140	hell break loose charlotte charlotteprotest anger loot	anger	0.667
+10141	bpharm4 guy eish guy bring anger life see nje like darkness fill ramatsobanem know	anger	0.667
+10142	hour football practice boiling sun 2hr volleyball practice boiling sun	anger	0.667
+10143	test angry	anger	0.667
+10144	watcherdev warcraftdevs put much artefact point fury can not raid literally waste 1 month life thank blizzard	anger	0.667
+10145	suppose work wtf dude thank piss furious	anger	0.833
+10146	angry	anger	0.667
+10147	feel travel 700 mile pick form arrive post two day leave fume	anger	0.667
+10148	cineworld congratulation free 1 month activate charge 3480 month absolutely furious	anger	0.667
+10149	tmz harveylevintmz hell hath fury like woman scorn affair parenting	anger	0.667
+10150	straight people canoodle quad offend	anger	0.648
+10151	definitely feel irritation today lord give strength	anger	0.667
+10152	roberttaitwhu chelsea anything possible haha fume bet	anger	0.646
+10153	break record madden wish not say shit every rush like break record shutupphilsimms	anger	0.812
+10154	dfscare apparently contact sofa mean deliver today old one go sit floor sofa fume	anger	0.646
+10155	1000 rabid grizzly bear go scatter neighborhood americanntheyre poor refugeesnninyourneighborhoodnotdc	anger	0.646
+10156	oreillyfactor not blm thug want justice black black gang crime rage cry racism cop	anger	0.646
+10157	mandyjohnson ill honest hope annoying southern bint look pout go week selasi ftw	anger	0.646
+10158	zero help up customer service push buck back forth promise callback not happen loathe	anger	0.646
+10159	mdivincenzo9 stupid hate lol bitter	anger	0.646
+10160	skyuk joke cut internet early mistake not reinstate long need engineer	anger	0.646
+10161	slippus puregym yeah receive fine today furious currently appeal member long	anger	0.646
+10162	people irritate	anger	0.646
+10163	man rage strike wish good rage emotion negative positive wish strike martial art control believe good hope	anger	0.646
+10164	2016 black people still fight recognize human being cantsleep	anger	0.646
+10165	swear devincameron23 block go hit back revenge	anger	0.646
+10166	skyuk joke cut internet early mistake not reinstate long need engineer fume	anger	0.646
+10167	realbd _ reyesaverie 47 unarmed black kill white cop 2015 many die every month chicago outrage	anger	0.646
+10168	bt_uk tracking show equipment deliver not service suddenly delay already 3 week	anger	0.646
+10169	really need pout time get nerve gbbo	anger	0.646
+10170	ever put fist laptop screen time new one lmao rage anger hp	anger	0.646
+10171	snowangel415 cjwalters66 maybe also attack tom rabid fan amp clothe always perfect also put	anger	0.646
+10172	dear future big brother player chase dick season win 50000 dollar sti bb18 bitter	anger	0.646
+10173	vandashnessa taotao_salupa5 nobody street burn looting terrify innocent citizen either	anger	0.556
+10174	disneyland nothappy still charge fullprice fume bestride	anger	0.646
+10175	forget eat dinner furious everything everyone	anger	0.646
+10176	girl sit front chew gum like cow amp ready snap	anger	0.646
+10177	sebbyd27850 nonsensical injustice black add destroy black property misdirect anger	anger	0.690
+10178	someone make priority list thing outraged order racism animalright abortion cop	anger	0.646
+10179	vodafoneukhelp vodafoneuk wow bill 4477 hav text u prove take 148 swine con	anger	0.646
+10180	fuck boy run drag route back back madden	anger	0.646
+10181	get fever highsni get boil blood	anger	0.646
+10182	canada4trumpnow donlemon bad temperament tantrum hissyfit	anger	0.646
+10183	can not even right bb18 rage	anger	0.646
+10184	daniel_sankey hayleyp79 haha actually doggie barrack anyone gws bitter	anger	0.472
+10185	people not iphone bitter iphone someone explain	anger	0.625
+10186	ronmexico760 guy call people cuck antiblm offend idea might propolice reform amazing	anger	0.625
+10187	deshbhakthoon always unhappy easily offend	anger	0.531
+10188	susanhensthe shameful display watch today leave reel much anger dt feel like explode clown watch	anger	0.625
+10189	hell break loose charlotte charlotteprotest looting	anger	0.625
+10190	still get whole season wentworth watch stupid cunt work ruin we _ _ kirstyga oldcunt	anger	0.625
+10191	half epicenter shut police burst tear fucking terrible keithlamontscott	anger	0.625
+10192	give fuck well revenge	anger	0.625
+10193	winksahoy get shit wrath winter nowhere	anger	0.625
+10194	grxjictank though u want offend americans	anger	0.625
+10195	realbd _ reyesaverie 47 unarmed black kill white cop 2015 many die every month chicago	anger	0.625
+10196	ci not think monalisa respect anyone think shell ruffle feather thejail	anger	0.625
+10197	dpd_uk ask parcel deliver pick store address poorcustomerservice	anger	0.625
+10198	think xbox one madden bundle would come physical copy madden code go to take fucking forever download lol	anger	0.625
+10199	canada4trumpnow donlemon bad temperament hissyfit	anger	0.625
+10200	blood bitter satan test becouse cleanse blood jesus christaman	anger	0.543
+10201	new gun emoji ios10 enough show anger towards number thing	anger	0.625
+10202	bigbrother__usa jealous cry baby bitter gladsheisgone crybaby	anger	0.571
+10203	wanna know outrage black black crime one know victim blm kill cop base medium	anger	0.625
+10204	forever angry gh ruin molly morgans bondfriendship bitter	anger	0.625
+10205	spur radio commentator refer mauricio pochettino mopo feel sudden surge rage	anger	0.625
+10206	sueblue35 nsoz7 immortalbulldog huh sprint coach slow team comp talk rob live outrage	anger	0.625
+10207	can not believe get 2 day leave backtoreality rage	anger	0.625
+10208	austin4evaleed fume	anger	0.625
+10209	take break wedding rage general stupidity certain people internet	anger	0.625
+10210	ever put fist laptop screen time new one lmao hp	anger	0.625
+10211	brother grab aggressive manner always impetuousfiend throw tantrum like kid know express	anger	0.625
+10212	not join btcare put phone talk rude take money acc willynilly	anger	0.604
+10213	casper10666 assure laughter increase anger cost arrogance westminster	anger	0.604
+10214	people need way escapeescape whatthis corrupt worldthis reality jokethis fury constant pain amp stresswe need vacation	anger	0.604
+10215	love black people really really people really irritate live hell outta cause different	anger	0.604
+10216	not talk politic people nowadays get offend easily	anger	0.479
+10217	mannym83 daretoreagan oh yeah hate air raid not like oregonbaylor offense fan ole miss one either	anger	0.468
+10218	askps_uk receive verification email ask resent 5 time still nothing	anger	0.604
+10219	unbelievable take 10 minute get barclaysuk fault call hang treatcustomersfairly	anger	0.604
+10220	will_0004 justification shoot without provocation even person bad history justification way go	anger	0.604
+10221	genuinely think anger issue	anger	0.604
+10222	judy_that honestly offend	anger	0.604
+10223	michelle one bad player bb history bb18 bbfinale bitter	anger	0.604
+10224	annoyedsad youtube burn ground	anger	0.604
+10225	tell happy anniversary u happy bitter ampalaya paitpaitanangpeg	anger	0.604
+10226	pay chicken panerabread not even get go 4 dollar customer	anger	0.604
+10227	never forget 5live cancel program allow extend 606 people could call detail outrage behaviour	anger	0.596
+10228	someone rudely say woman long hair inner feminist try rage	anger	0.604
+10229	absolutely rage change cas joke	anger	0.604
+10230	girl irritate much lol	anger	0.527
+10231	lickmelucas wait figure like 0 100 real quick irritation	anger	0.604
+10232	xxmariab listen yh not provoke cos ill make cry	anger	0.604
+10233	luxbet even give pizza serious fail hungry furious hangry	anger	0.447
+10234	bloody parking ticket	anger	0.583
+10235	dfscare apparently contact sofa mean deliver today old one go sit floor sofas	anger	0.583
+10236	thomsoncare sam yes helpful need sort asap keep promise stuff not happen	anger	0.583
+10237	like rape apologist inadvertently make man sound like rabid mindless beast friend like	anger	0.583
+10238	get angry tell would 40 year old guy look girl like feel offend	anger	0.583
+10239	agirlhasno_name mdlmurray shoot black police woman typical looney toon think hillary divide chaos	anger	0.583
+10240	unitedfrontrev juandeznuts lucidhurricane _ sex offense happen across race culture creed amp castrate	anger	0.629
+10241	jasonmillerindc realdonaldtrump prudence suggest 8 bump 23 week view skepticism mediahrc axis angry	anger	0.583
+10242	lesyoung01 rabid dog ride child eat flesh one fellow limb adult	anger	0.583
+10243	theonesoleshoe one thing attack hating bad make we like angry vengeful behavior detest	anger	0.583
+10244	delete shit josh screenshotte snap	anger	0.583
+10245	someone make priority list thing outraged order outrage racism animalright abortion cop	anger	0.583
+10246	corbettbarr pjrvs brianclark true spit venom still bitter stripe like old man yell porch	anger	0.583
+10247	never watch grey anatomy ever ever ever ever ever shonda rimes take away another og character fuming	anger	0.583
+10248	wonder would happen tell people truth savage uhoh angry	anger	0.583
+10249	never find someone love like love revenge	anger	0.583
+10250	firstbsa turn surprised late work	anger	0.583
+10251	angry may case amp may unavoidable see sudden excitement become sin albertbarne	anger	0.583
+10252	lemonlover666 shit not even begin describe fiery little demon straight hell	anger	0.583
+10253	bitter today	anger	0.583
+10254	hoopdawg87 micktheperm meanwhile white cop keep kill black people less outrage strange society	anger	0.500
+10255	cc_yandian hillaryclinton team must draw hat daily personality drug angry yeller quiet screamer	anger	0.583
+10256	head home cut grass heat wanna go eat somewhere air condition pout adultingistheworst	anger	0.583
+10257	ooooooooh god uuuugggghhhhhhhhh rage	anger	0.583
+10258	never watch grey anatomy ever ever ever ever ever shonda rimes take away another og character	anger	0.583
+10259	saclivin mrscagg specific amp intentional way part intention provoke conversation around systemic racism towards black	anger	0.583
+10260	alyssasimpson21 give kendrick lamar eat barbecue bitter	anger	0.583
+10261	lynnew69 say talk will uncontrollable animal move another link comment help	anger	0.583
+10262	alicehouston18 sorry angry drone fly away	anger	0.583
+10263	carefreeash _ fume	anger	0.583
+10264	xandraaa5 amayaallyn6 shut hashtag cool offended	anger	0.562
+10265	starklydark know trust word soft ignore anger focus hurt beneath know screw	anger	0.562
+10266	wonder american city next protest police shooting next smh whenwillitstop howmanymoretime	anger	0.562
+10267	mfs bitter	anger	0.562
+10268	holiday next round fume	anger	0.562
+10269	miss fact burkeramsey swung amphit sister jonbenet face golf club previously fit anger	anger	0.598
+10270	nytopinion point voting trump push piece board game like angry toddler wreck everything everybody	anger	0.562
+10271	like aggravate constantly byeeeeeeee	anger	0.562
+10272	lexual _ _ jdspielman10 rip 100s black man womenchildren kill chicago outrage	anger	0.562
+10273	inpoure letter die subsist check quaint virtuoso way toward fine huff l	anger	0.562
+10274	hit child discipline quite rage hypocrite	anger	0.562
+10275	sorry bitter either want pure ur literally card set like every time draw set likegt	anger	0.562
+10276	danrather king say not matter fact come w psycho far affront	anger	0.562
+10277	juliahb1 bloody right	anger	0.562
+10278	much hw tonight offend	anger	0.519
+10279	like hello first bear must always laugh joke offend	anger	0.562
+10280	outrage pass replace mute fatalistic acceptance current situation fatalism	anger	0.562
+10281	wee pop sock keep fall inside shoe	anger	0.562
+10282	apparently suppose scottish accent offend	anger	0.562
+10283	seek conduct attack israel intend provoke reaction would inflame feeling within islamic world	anger	0.562
+10284	lose frequenciesjanieck devy reality gestort aber geil remix rage shoutdrive	anger	0.562
+10285	eaglegiles23 tgilmore_92 miss outrage	anger	0.562
+10286	allegedlowbrow eyeforeye indian army never forgive never forget always take revenge pakistan break law ia follow	anger	0.562
+10287	bad juror ever michelle nicole big threat bb18	anger	0.562
+10288	luv see man scowl face walk protein shaker clench fist immediately stop n suck dick	anger	0.562
+10289	fake people irritate	anger	0.562
+10290	say ill say america really fortunate black people want equality revenge	anger	0.562
+10291	anger wrath intense emotional response	anger	0.562
+10292	tarasetmayer oliverdarcy aa right passage come n word insult church ignorant	anger	0.562
+10293	let fume poor keeping	anger	0.562
+10294	lynnegarrison yeah see float online theory probably make bitter stan ignore pet v vet crap	anger	0.562
+10295	skynews east wind blue summer durban africa still surf get sting badly must carefulla sting harm	anger	0.562
+10296	lisaasquithtobe craig8710 waynehaselden june65wigan everyone wigan big club bitter	anger	0.562
+10297	perfect illusion least know angry ladygaga iscalmingmysoul	anger	0.556
+10298	candace amp pout get right tit gbbo	anger	0.562
+10299	johnaugust clmazin look forward abcdesignate open stuartspecial literally yell tv	anger	0.491
+10300	bang gordon brown accuse abuse gazillion rabid parrot	anger	0.562
+10301	petition nonmaghrebi poc stop buy couscous white grocery store boil couscous trash	anger	0.562
+10302	espn assume want free magazine offend	anger	0.542
+10303	yo kid snap chat la amp get high helium gas lmao like fuck lol	anger	0.542
+10304	repdelbene today proceeding entire process insult constituent	anger	0.593
+10305	serendipity127 _ zombiecalorie angel_eyes66 sense theme tho lol angry	anger	0.542
+10306	kingcharles9th lowkey forget twitter not follow back go to offend	anger	0.421
+10307	  flat party instantly get bollocke	anger	0.542
+10308	everycolorbot like every color look trigger colorblind offend	anger	0.542
+10309	divamagazine straight people even arse straight guy think mean threesome fine	anger	0.517
+10310	douthatnyt jbouie damonlinker yes bad point racism lest provoke racist racist indeed like	anger	0.542
+10311	deadspin jrzy_boy leave want play heavy game need offense tho amongst other	anger	0.542
+10312	idubbbz leafyishere offend	anger	0.542
+10313	aroseblush hello nthe big bully crocodile tear bully always act like offend victim	anger	0.542
+10314	irishtimespol irishtime irish citizen boil drinking water 2016 leave one foot firmly bog	anger	0.542
+10315	candice pout go to take someone eye mate gbbo	anger	0.542
+10316	always weird grudge stingray ever since one kill steve irwin	anger	0.542
+10317	jwolfie _ get to use dark skin emoji offend	anger	0.525
+10318	say might like big foot might like natural biological father say blood boiling cross	anger	0.542
+10319	really really resent go bed sensible hour guy want talk people	anger	0.542
+10320	nm_nicknocturne incentivise people roam internet morally offend not enough already	anger	0.542
+10321	person get bitter see ravi stan	anger	0.542
+10322	darren_hammer amen nothing personal mate tired complaining fan relentless tirade misery	anger	0.542
+10323	michelle one bad player bb history bb18 bbfinale	anger	0.542
+10324	dear indiansit hard swallow try swallow bitter pillthat pakistan number one test cricket	anger	0.542
+10325	little nose irritation little chill body flu flu flu fallsong	anger	0.542
+10326	real sjw let america downni find we go get usni let let inni rage lolnsergiosarzedo	anger	0.542
+10327	conniver blind existential fury	anger	0.542
+10328	guy irritate	anger	0.542
+10329	firsttweetever sippin hotchocolate wonder finally give lt3 haha hellloooootwitter facebookisforfamily rage	anger	0.542
+10330	enca direct anger thief governmentcorruption feesmustfall	anger	0.542
+10331	need new outlet rage	anger	0.542
+10332	swagalini denial anger pure acceptance	anger	0.491
+10333	sapientsoldier timid determined version rabid beast beyond land growl beneath restrained breath rip	anger	0.542
+10334	use pretty girl use curse word express anger feel like little bit surprised turn well	anger	0.542
+10335	tzumixiv huff puff	anger	0.519
+10336	hell hath fury like hamstring cramp ouch	anger	0.542
+10337	actually arse sister sometimes control tv 90 time watch one thing get huff	anger	0.542
+10338	fireemblemlord first expac since wrath feel like proper evolution game	anger	0.542
+10339	thebeast_ufc happen suicide tweet joke obviously could offend anyone	anger	0.542
+10340	paulkrugman relentless echo chamber negative comment lot reverb typical bully behavior	anger	0.542
+10341	find initiative not even thing revenge	anger	0.542
+10342	djdduece jojo 1230 midnight let rage wryyyyyy	anger	0.542
+10343	ill happily rude people personally insult unprovoked deserve good people deserve respect	anger	0.521
+10344	ak47 leave spine frown	anger	0.521
+10345	come let make em hate make em pout face	anger	0.521
+10346	recommend read prisoner hate aaron beck anger	anger	0.521
+10347	alanafergusson snap meee	anger	0.521
+10348	kimly resent	anger	0.521
+10349	forever angry gh ruin molly morgans bondfriendship	anger	0.521
+10350	disgracefulesin resent man way reason esinscountdown	anger	0.521
+10351	tilltheendmmvi accidetly dump boiling water	anger	0.521
+10352	ggreenwald smh remove ideologically bankrupt opportunistic establishment burn bridge social contract	anger	0.521
+10353	usual disappointing offense houstontexans texans	anger	0.458
+10354	mdivincenzo9 stupid hate lol	anger	0.521
+10355	puselepuru irritation find corpse	anger	0.500
+10356	never make decision angry gt_lt never make promis happy	anger	0.521
+10357	girlsreallyrule trump king relentless selfpromoter not give rip anyone else perfect match donald	anger	0.521
+10358	coltonflurry strangefacesla cancel cbs access live feed jc even say vic afp paulshould imo bitter	anger	0.517
+10359	whenever put wanna adore brother alwayss sing wanna dog instead irritate	anger	0.415
+10360	johnaugust clmazin look forward abcdesignate open stuartspecial literally yell tv umbrage	anger	0.521
+10361	not get point make report charlotte looting cnnashleigh explore loot business symbolize outrage	anger	0.566
+10362	arcadianluthier take feeling kei unfairly lip form frown try walk away	anger	0.521
+10363	laura221b leave dad deal work do soon feel wrath slipper	anger	0.521
+10364	leave rulenimber 1 carpet cleaning worsethananatomicbomb accidentlyspillbeeronthecarpet	anger	0.521
+10365	m_warner21 yike wrath maddie	anger	0.521
+10366	nigerianscamsss trillsmith think come back twitter ruffle bush tuh	anger	0.521
+10367	leafyszerker markiplier insult sound like job well do red do job suppose justsaye	anger	0.521
+10368	hudcomedy adamrowe insult slutfaceshlongnugget	anger	0.521
+10369	need help anger	anger	0.574
+10370	cbsbigbrother never bring back meech bridgette cry someone look ugh bridgette bitter	anger	0.521
+10371	hey folk sorry anything offensive get post yesterday account get hack fix though hope annoyed	anger	0.521
+10372	time remove cb team somehow screw rip bandaid ste bit everyone get	anger	0.521
+10373	candice pout get preposterous week week go bit jack nicholson joker gbbo	anger	0.373
+10374	keithboykin unfortunately will not end follower whichever candidate not elect throw tantrum win elec	anger	0.521
+10375	cc_yandian hillaryclinton team must draw hat daily personality drug yeller quiet screamer	anger	0.521
+10376	candice stand pout face aggravate every week	anger	0.521
+10377	think really break young bull hurt u tell bitter mad	anger	0.521
+10378	ostinong yuuuhh plus clin ep prevme ugghhh hahaha bitter	anger	0.521
+10379	hebertofnh time man get pay throw temper tantrum speak got to listen	anger	0.521
+10380	hear thought ether ex post facebook pic snuggle say cat angry	anger	0.521
+10381	not provoke let	anger	0.521
+10382	could never angry drunk lol weirdo enjoy time	anger	0.521
+10383	yet still death road rage amp violation road despite widely accept concept personal accountability drive	anger	0.521
+10384	siobhansynnot oh good god quentin letts one comedy turn angry bbcthisweek afneil bbctw	anger	0.500
+10385	trump_videos look completely rabid realdonaldtrump	anger	0.500
+10386	inner conflict happen odd honor value priority innerconflict conflict value	anger	0.500
+10387	epipen public outrage occur expand pap patient assistance progrm couponsrebate gopoversight oversightdem mylan epipen	anger	0.500
+10388	imagine twitter fume corbyn lose election smith lead labour bad result suggest corbyn imagine	anger	0.500
+10389	bosnaud scared ruffle feather resort write cryptic code unclecamscabin	anger	0.500
+10390	not think cadre get src deployment would make cadre bitter ku tough macom	anger	0.500
+10391	miss nothing someone care attack face kiss foreveralone bitter	anger	0.500
+10392	grudge hold keep make appearance god want deal	anger	0.500
+10393	arppaul chetanlfc mannkakhiladi dey_spandan umeroffcial compare akshay sir zandu balm insult akshay sir	anger	0.500
+10394	anger acid harm vessel store anything pour anger nnmark twain	anger	0.500
+10395	spend 10 shimmy 1 drink ill rage know go to happen	anger	0.500
+10396	rage rage ep 2 come soon ill keep post youtube youtubegaming rage	anger	0.520
+10397	iamsrk w gender bias indignant fancypant saddler daughter opt leather jacket thank much	anger	0.500
+10398	sister 19 throw legitimate temper tantrum get attention	anger	0.500
+10399	luxbet even give pizza serious fail hungry hangry	anger	0.400
+10400	provocation set curiosity entity feed fuel fire speak quatrains hmmm america need vigilant	anger	0.500
+10401	patvpeter freebeacon quite response retaliation weiner get revenge huma amp hillary clam diggingnallscumbag	anger	0.500
+10402	guess bradangelina gt anger gt blacklivesmatter	anger	0.500
+10403	exs number time prank revenge prank whatprankishoulddo seriously prank	anger	0.500
+10404	despise lord discipline resent rebuke lord discipline love proverb 31112	anger	0.500
+10405	guy across really ugly suit stop express displeasure	anger	0.500
+10406	move clip youtube tonight vigil hold tulsa metropolitan baptist church terencecruther justice anger sadness	anger	0.500
+10407	think must scare coworker eat like rabid animal break srry	anger	0.500
+10408	juliahb1 bloody right fume	anger	0.500
+10409	royenglish roy fiery	anger	0.500
+10410	puerto rican taino hair black nose get to ruffle targeted feather	anger	0.500
+10411	jasonmillerindc realdonaldtrump prudence suggest 8 bump 23 week view skepticism mediahrc axis	anger	0.500
+10412	listen joey really help anger	anger	0.500
+10413	kerrybowen _ anger issue	anger	0.500
+10414	can not believe mess favourite bake feel personally offend	anger	0.500
+10415	think may offend	anger	0.500
+10416	ashleighjessica zacflint1 give pout firm	anger	0.500
+10417	use twitter cope mechanism rage kid oop	anger	0.500
+10418	agenttinsley believe call fury righteous	anger	0.500
+10419	ok get call white devil train not know whether laugh offend	anger	0.484
+10420	india take revenge make 3 new movie like phantom like ghus_k_maren_ge indian army take revenge	anger	0.500
+10421	cxmbeferre would not date offend	anger	0.494
+10422	drop snapchat name bore snap swap pic	anger	0.500
+10423	damn offense mix bag unpredictable lethal weapon worried defense coordinator chargers boltup recharge	anger	0.479
+10424	bee sting still suck feel sick	anger	0.479
+10425	love people make plan without actually include process	anger	0.479
+10426	healeyraine offend actually	anger	0.479
+10427	pressure burst pipe	anger	0.479
+10428	voguemagazine learn freepeople viral insult ballet stop try wrongfully stick model pointe shoe	anger	0.479
+10429	realdonaldtrump sense take wrath innocent people think police shoot innocent man makeamericasafeagain	anger	0.479
+10430	griffinbowie23 alimcclimond sorry offend u griffin	anger	0.479
+10431	johnkerry indignant want world know obama nothing putin want aleppo syria	anger	0.479
+10432	sarah_urbina even beef sara let anger get good sagin friend long	anger	0.479
+10433	lydss_xx tharealversace fatbellybella fuckin luv incense fuck	anger	0.479
+10434	screen snap kind narcissistic ass would smh	anger	0.479
+10435	not even feel anger anymore can not explain tulsa charlotte trayvon sandrabland philando ferguson batonrouge michaelbrown	anger	0.479
+10436	freepenaltie tmortimerftbl doll vile creature touchline every game tantrums amp shout ref would love see	anger	0.479
+10437	jwolfie _ get to use dark skin emoji	anger	0.479
+10438	jam fury math class want die hbu	anger	0.479
+10439	wish sis 12 midnight receive reply 2nd sis wish get reply know fav offend	anger	0.479
+10440	evanareteo write abt change face sex industry tr man talk revenge	anger	0.479
+10441	can not believe achille kill	anger	0.479
+10442	a_mxe7 hah not speak cousin like mind displeasure see u bare face eh train pretty sight mate	anger	0.479
+10443	indignation whisper date terrific lermanletts centerpiece scene overwhelming sense indignation	anger	0.479
+10444	cbsbigbrother never bring back meech bridgette cry someone look ugh bridgette	anger	0.479
+10445	trendykittykat people would rather hang indignant anger weary sigh	anger	0.479
+10446	verizonsupport thank say wife get iphone today lose eta thank	anger	0.479
+10447	thatmoment watch worstcelebritycook bubble burst find kylexy gay married nochance kindadontmind	anger	0.479
+10448	woman not like girl resent look greatwe wish still look like wash	anger	0.479
+10449	hey folk sorry anything offensive get post yesterday account get hack fix though hope angry annoyed	anger	0.479
+10450	indigohawthorne u understand rage often pretty control rational often visceralnot always logical	anger	0.479
+10451	leg feel like go to burst yet still expect go work	anger	0.333
+10452	good revenge move get continue succeed never give someone satisfaction watch suffer	anger	0.479
+10453	get work fire drill fire outthere inthedark	anger	0.479
+10454	laratheirish lt feel everything would remember everything evanora hope would serve fuel creature anger run rabid gt	anger	0.479
+10455	kim_is__bored exactly say fb bitter	anger	0.479
+10456	get work fire drill fire burn outthere inthedark	anger	0.479
+10457	simon_penn_r antisocialjw2 turn rather fiery gg radical	anger	0.479
+10458	significantly bitter smile let	anger	0.479
+10459	metpolicefc true none player cop drink chill bitter player walter mitty type keviboyallen	anger	0.479
+10460	brendan rodgers look fume	anger	0.479
+10461	chronavt ummm blog say simon stehr fake 7thill expect investigation forthwith	anger	0.479
+10462	basket well bad mood someone irritate practice please	anger	0.479
+10463	chill af want offend someone	anger	0.479
+10464	drudge_report foxnew good thing fbi not offend	anger	0.479
+10465	know cyran still not do makeup base jeongguks tiddy like suggest offend	anger	0.479
+10466	danrafaelespn tyson fury beat man top year danny garcia bradley pacquaio frampton	anger	0.479
+10467	wish sis 12 midnight receive reply 2nd sis wish get reply know fav	anger	0.479
+10468	m_t_f_72 surprised would fume	anger	0.479
+10469	oh old thing face nah tear school relate anger frustration nope never	anger	0.479
+10470	british humour offend challenge mainstream view hat clarkeson ultra left go kneel allah	anger	0.479
+10471	need attention not ill pout	anger	0.479
+10472	audreykare like half expect rabid troll come mention accuse csa apologist something lmao	anger	0.479
+10473	perfect illusion least know ladygaga iscalmingmysoul	anger	0.479
+10474	puzzle invest open portland feodal population correlative straight snorting infuriate xlzjyhg	anger	0.458
+10475	len_snart give frustrated growl step close put gun barrier alarm nothing happen	anger	0.458
+10476	aarongoodwin seriously dude buy bubble tape phone snap break another phone	anger	0.458
+10477	forget mention buy dreamboy ticket rage	anger	0.458
+10478	jasmine_wrn snapchat back constant battle see get ugly snap one another snap survival	anger	0.458
+10479	nick say territorial hell growl someone get close hesananimal	anger	0.458
+10480	not mean offend anyone 937 literally blame everything white people case true lot time	anger	0.458
+10481	totally know trump finally get revenge soninlaw prosecutionimprisonment throw christie bus	anger	0.458
+10482	inner conflict happen odd honor value priority anger innerconflict conflict value	anger	0.458
+10483	belittle kitty straight service provoke lift aboard wycelv	anger	0.458
+10484	eamaddennfl easport play game john elway sack 3x fumble 3x john elway know madden	anger	0.458
+10485	get angry tell would 40 year old guy look girl like feel	anger	0.458
+10486	beargryll next series u celebrity firefighting show chuck burn building voiceover	anger	0.458
+10487	like can not 12 hour worth standing calorie burn 3 hour 1stworldprobs4vs	anger	0.458
+10488	revenge feel good revenge feel bad hillaryclinton	anger	0.458
+10489	wonder would happen tell people truth savage uhoh	anger	0.458
+10490	take public opinion revenge pakistan govt unable decide aajtak timesnow narendramodi	anger	0.458
+10491	cxmbeferre would not date	anger	0.458
+10492	team face barca bayern defeat one face wrath	anger	0.458
+10493	not understand everyone angry want live thrive not	anger	0.458
+10494	kitanoye hell hot boil isi ewu	anger	0.458
+10495	welfarereform model snap	anger	0.458
+10496	hillaryclinton yeah u get to make heel know u need vote u wait u losetheyre really wrath	anger	0.458
+10497	well aprildryan trump rabid base need 2 hear amp u always find overseer like king say itnjoyannreid smshow frangeladuo	anger	0.458
+10498	skip meal national way show disappointment anger wiz	anger	0.458
+10499	street rage 2 hard find itune step guy vinyl nmade simple	anger	0.458
+10500	paulbushnell25 ee bad news order online not go happen order phone	anger	0.458
+10501	ultimateboxer heart leave long againnnslight pout turn smilennheheh kid fine	anger	0.458
+10502	people angry toward veggie burger n wtf	anger	0.458
+10503	mean do watch pilot nice see group actor perform without story line drip relentless nihilism	anger	0.458
+10504	checkedin flight toronto take seat 3d infuriate perpetualgeek	anger	0.458
+10505	egyptian official express frustration outrage obamahillary administration support muslim brotherhood	anger	0.579
+10506	princesscasgirl daddyellis _ _ tiff well hurry cause	anger	0.458
+10507	fleetstreetfox buzzing pathetically sympathy let twirl moustache chuckle ste psychowasp	anger	0.458
+10508	matt psychological study provocation abusive relationship	anger	0.458
+10509	huffpostuk great wrath woman scorn	anger	0.458
+10510	kencurtin might get donal óg sure will not cork fiery dopey frank amp cult	anger	0.458
+10511	louisfil curious mean rush animosity disdain	anger	0.458
+10512	thatomahapa good revenge get good woman move leave hairline figure alone	anger	0.438
+10513	tamriiel talk expansion gear fury always well towards end	anger	0.441
+10514	know softball could ste bad jimmy fallon lot heat ampldquosoftballamprdquo donald trump interview	anger	0.414
+10515	ostinong yuuuhh plus clin ep prevme ugghhh hahaha	anger	0.438
+10516	strongestbeing would furrow face would redden protest would seem see unattractive wukong eye	anger	0.481
+10517	find two good fwendz go rage lifeisbeautiful make last week sleep extra worth	anger	0.438
+10518	paul forever paul paul play well game bb18 angry	anger	0.466
+10519	marthalyssa yep lol	anger	0.438
+10520	auntiesupreme kimberlycarole find express yall displeasure	anger	0.438
+10521	1voicematters michaeltpremo get wind menforchoice not infuriate make sad generation	anger	0.438
+10522	since update iphone lose power nearly 40 fast	anger	0.438
+10523	sun literally burn skin	anger	0.438
+10524	feel travel 700 mile pick form arrive post two day leave	anger	0.438
+10525	dl_hart donniedollar aaronbiggspro wwenowayjose cwfmidatlantic chop feel still feel sting look brutal	anger	0.462
+10526	chris eat mac n cheese imma eat taffy	anger	0.438
+10527	thomeagle help maintain boost status world class centre education culture tolerance outrage	anger	0.438
+10528	chris eat mac n cheese imma eat taffy revenge	anger	0.438
+10529	weird discuss sex resentment confusion thing write last night	anger	0.438
+10530	hear thought ether ex post facebook pic snuggle say cat	anger	0.438
+10531	paul forever paul paul play well game bb18	anger	0.438
+10532	bigbrother__usa jealous cry baby gladsheisgone crybaby	anger	0.438
+10533	clarechampion westclarepage peter radio piece ball pure class dig revenge total balanced pro	anger	0.438
+10534	coltonflurry strangefacesla cancel cbs access live feed jc even say vic afp paulshould imo	anger	0.438
+10535	good revenge move get continue succeed never give someone satisfaction watch suffer	anger	0.438
+10536	istolefreehugs stephlaris lol happy negative realistic ass self sorry offend	anger	0.438
+10537	75 tierney reach deep cross back post play back across alloa defence clear celtic relentless	anger	0.438
+10538	can not believe get 2 day leave backtoreality	anger	0.438
+10539	vladfucker69 look rabid	anger	0.472
+10540	thedrepabon blm outraged shooting nc day turn guy point gun police wait fact outrage	anger	0.438
+10541	get embarrassed slight thing ill fret day hate	anger	0.438
+10542	sophiejulia calebatchipotle calebpressleyxo relentless pipe thirst shelter	anger	0.438
+10543	not get point make report charlotte looting cnnashleigh explore loot business symbolize	anger	0.438
+10544	tauru react angrily can not take provoke long	anger	0.438
+10545	bismahmalik seem like fight ready rage	anger	0.438
+10546	westonkoury leafy roast pokemon go kid outrage mean relevant yi mean kiss	anger	0.491
+10547	think paul bitter pastry	anger	0.492
+10548	patriotsinform not see think well dumbe simplify offense brissett come complicated system	anger	0.438
+10549	become boil hot slowly melt heart frozen	anger	0.438
+10550	xandraaa5 amayaallyn6 shut hashtag cool	anger	0.438
+10551	hoytschile fury road	anger	0.438
+10552	realize hold grudge long immaturity wisdom	anger	0.438
+10553	bonesarp disappointmentnnhe fake pout start chuckle	anger	0.438
+10554	move clip youtube tonight vigil hold tulsa metropolitan baptist church terencecruther justice sadness	anger	0.438
+10555	regalisazura ngrasp cobalt woman fairly easily fair cheek would ignite fiery hue warm	anger	0.438
+10556	billburr directtv good apparently sit silent anger not press say anything	anger	0.417
+10557	believe woman fiery month go struggle struggle develop strong character	anger	0.417
+10558	kingcharles9th lowkey forget twitter not follow back go to	anger	0.417
+10559	also definitely still bitter yellow ranger asian asian representation hollywood essentially shrug anyway	anger	0.417
+10560	miss fact burkeramsey swung amphit sister jonbenet face golf club previously fit	anger	0.417
+10561	talkrobyn oh dear watch woman pout well	anger	0.442
+10562	life tip 101 know unresolved anger likely cause problem several area life must recognize amp properly deal	anger	0.417
+10563	sargon_of_akkad like burn rap album buy first gosh darn get rid	anger	0.417
+10564	docjp unleash god wrath cain	anger	0.417
+10565	slaveguinevere little prick sting come tennessee get it1	anger	0.417
+10566	deltadomain sawdraze qurion dis dat nigga fume right	anger	0.417
+10567	projection perception see someone else also level within anger worry	anger	0.417
+10568	sagehillfarms hintonalisa hb_heather hey jayme burning cuz talk go tomorrow	anger	0.417
+10569	savageimiike one favorite song brother real talk rage	anger	0.417
+10570	control anger sign righteous people promise paradise quran surah al imran verses 133134 reward gooddeed	anger	0.417
+10571	alyssasimpson21 give kendrick lamar eat barbecue	anger	0.417
+10572	1975 play antichrist will not sundarakarma play hustle outrage	anger	0.417
+10573	tdsnation blame broken madden year	anger	0.417
+10574	mmasoccerfan outmagazine offense way make sense work magazine otherwisewho apologize 4	anger	0.417
+10575	nahhhhhh konanplaydirty snap story get buss	anger	0.417
+10576	ticcikasie1 frown let distraught gardevoir say wish trainer	anger	0.417
+10577	skinkev let rage	anger	0.417
+10578	could get line block germantownbroncos lilleague popwarner broncos usafootball lineman	anger	0.417
+10579	biggkatz arm focused rage overpower get nerfe still strong fury though	anger	0.468
+10580	kevini gggboxe specialkbrook pretty average klitschko fury 600k joshua white 450k	anger	0.417
+10581	wbirsport still use offense middle 3x amp punt	anger	0.417
+10582	jessebwatter lol love aggravate juan keep good work lol	anger	0.242
+10583	judahandthelion tonight legit can not wait rage	anger	0.417
+10584	see ripshawtylo get think bout rapper think liltunechi die burst tear smh	anger	0.417
+10585	donna_bellav soniaray gig_aholic look especially lovely sadly remove potentially indignant mr convo	anger	0.417
+10586	momma irritate ask question like go	anger	0.417
+10587	bubble officially burst 98 boy beat trophy glory wptmain bye	anger	0.290
+10588	daniel_sankey hayleyp79 haha actually doggie barrack anyone gws	anger	0.417
+10589	feistyarcher trouble feign anger give look tell behave know would not though one	anger	0.417
+10590	jbcrewdotcom fan insult	anger	0.417
+10591	offend u	anger	0.417
+10592	np rum rage	anger	0.417
+10593	bloke train obviously try provoke west ham fan loudly slag stadium mate phone	anger	0.434
+10594	welfarereform model	anger	0.417
+10595	thedtsb trubble1127 nflnetwork agree offense ass second half td score first drive	anger	0.417
+10596	realpaulwalker rip paul furious 8 can not wait	anger	0.254
+10597	trumpism likewise rest bed racial resentment make knowingly intentionally long trump get politic	anger	0.417
+10598	let general tweet offend definitely not twitter	anger	0.417
+10599	life order complete amazing life journey successfully bitter	anger	0.417
+10600	marthalyssa yep lol bitter	anger	0.417
+10601	straight people canoodle quad	anger	0.417
+10602	remember guy get angry keep say gary sanchez good baseball player world lmao	anger	0.417
+10603	kalis kitten ask frown curl fair skinned forehead show scar cat scarredtiger	anger	0.417
+10604	everycolorbot like every color look trigger colorblind	anger	0.396
+10605	husband find rabid hockey fan like wait line 4 6 window sticker sj nhlahl hockey	anger	0.396
+10606	parrishwalton kjmgolf also good asset offense rbs wrs longterm offense utilize	anger	0.396
+10607	unknownandyoung low growl escape oh oh	anger	0.396
+10608	riotzxvl papercut sting stub ur toe last like 10 sec	anger	0.396
+10609	want salty fry mcdonald since yesterday burn finger eat bc shit	anger	0.396
+10610	love megan rage kendall jenner photo sit like	anger	0.396
+10611	josephperson cam still rattle backlash receive make black qb comment suffer wrath white america	anger	0.396
+10612	offend lie alexandria goddard not mean deric friend anything else purely fishin expedition	anger	0.427
+10613	really insult coz soccer lmao wow	anger	0.396
+10614	terrible thing see visionnnhelen kellernnbegin end mindnnstephen coveynn whereareugoing	anger	0.396
+10615	starflowerz17 dreamerabe bitter nicole cory evict	anger	0.396
+10616	rumanaa_r daiiyroast offend	anger	0.396
+10617	terrible thing see visionnnhelen kellernnbegin end mindnnstephen coveynnwhereareugoe relentless	anger	0.396
+10618	bitter battle sweet victory	anger	0.396
+10619	resent bite tongue	anger	0.396
+10620	can not fight elephant wrestle pig quoteoftheday	anger	0.396
+10621	people often grudge other enjoy	anger	0.396
+10622	sarahmi40605180 kaileighhxo sorry burst bubble never illusion	anger	0.396
+10623	jaybusbee well archie offense kinda old	anger	0.396
+10624	score madden 13 vita 20au today bloke not know happily pay 70 ever bargain bargain vit	anger	0.396
+10625	fret scuffs ill take scuff whichcome phone use wet handed drop toilet day	anger	0.396
+10626	ydu yell fire crowded theater burst flame cool trick bu	anger	0.396
+10627	congress acting indignant epipen pricing quite disingenuous since craft law allow gouging	anger	0.396
+10628	todddoug ziggomattic yeah actually support tweet thread initially article righteous indignation	anger	0.396
+10629	wwe live event brock vs orton 2 saturday wwe network need wwe randyorton heymanhustle revenge	anger	0.396
+10630	edquinn63 even forget pick ur fave child school	anger	0.396
+10631	grateful hungry people life hungry learn change grow help etc sure anybody well	anger	0.396
+10632	st8edge4life88 eh well sting vs cactus loser leave wcw match bash beach lol	anger	0.396
+10633	warfarepower dip boiling water	anger	0.396
+10634	rage rage ep 2 come soon ill keep post youtube youtubegaming	anger	0.422
+10635	anger rise think consequence quote wisdom anger	anger	0.433
+10636	new madden kicking	anger	0.396
+10637	go say rooney shadow former self not want offend shadow ntfcvmufc	anger	0.396
+10638	burst cry alone u realize one truly know unhappy really not want anyone know	anger	0.396
+10639	schneiderlin take revenge 2 foul	anger	0.396
+10640	justinrow10 dude new madden 17 haha	anger	0.231
+10641	angry glass vodka	anger	0.375
+10642	one month til someone bday think time flaunt get something pretty awesome revenge	anger	0.435
+10643	strong independant practical stop live world fantasy snap fast u get use reality well	anger	0.255
+10644	time wound heelsnn drunkjesus rt lol wisdom quote comedy self revenge hate time funny politic trump potus2016	anger	0.375
+10645	tehshockwave turn grumpy frown upsidedownnnyou something next impossible today	anger	0.375
+10646	know cyran still not do makeup base jeongguks tiddy like suggest	anger	0.375
+10647	important thing bestrong hold anger thought	anger	0.375
+10648	get to wonder caller max listen show first place incense msignorile	anger	0.375
+10649	believe go to start singe snap story tractor switch little bit	anger	0.375
+10650	testing current earth burst team	anger	0.375
+10651	luck rest fall go anything like today think go like season bestdayever magic work	anger	0.375
+10652	also ppl love whole damn lot erica joanna tiff sirli harley anja rest gc bc run chara	anger	0.375
+10653	sippycoup hurt much eat read somewhere marshmallow good bc soft not irritate	anger	0.375
+10654	fret cool human follow become instantly cool bot	anger	0.375
+10655	rabpeel snap seem problem	anger	0.375
+10656	burn last yan	anger	0.356
+10657	can not wait ninja turtle costume rage osu halloween	anger	0.375
+10658	greythetick even jump hoop take one irate netizen decide play rule not enough	anger	0.375
+10659	good revenge massive success frank sinatra	anger	0.375
+10660	despite sharing oneill article sadden gazza case seem fury sentence remark	anger	0.375
+10661	need stop second guess go first thought go relentless	anger	0.425
+10662	worship feetnwhere wrath mercy meetnand guilty world washednby love pure streamngraham kendrick	anger	0.375
+10663	dear future big brother player chase dick season win 50000 dollar sti bb18	anger	0.370
+10664	slow anger well mighty rule spirit take citynp1632 bibleverse pride anger	anger	0.314
+10665	hold grudge someone stop blessing god learn forgive amp forget	anger	0.375
+10666	candice constantly pout gbbo	anger	0.375
+10667	pugglelover3691 hater teach hate show love good quote go comment tiff treat	anger	0.375
+10668	hell fury like woman scorn william congreve	anger	0.375
+10669	least 3rd time ball burst game	anger	0.375
+10670	stoozyboy1 chris_sutton73 oh zombie rage	anger	0.375
+10671	prayers amp protection brother sister fight charlotte rage machine	anger	0.375
+10672	wcsportscamp lole privileged exasperation bottle sell	anger	0.375
+10673	finally make fury warrior guide let know thought	anger	0.375
+10674	evanareteo write abt change face sex industry tr man talk	anger	0.375
+10675	justpyronow go to kind community raid wrath machine drop	anger	0.375
+10676	nurse practitioner look pretty bad offense course nnthank really add spark positivity need today	anger	0.444
+10677	dlrwill turn frown upside buddy	anger	0.375
+10678	sonofthedovah could sense anger stir within take hand long stay together well safe	anger	0.375
+10679	apparently suppose scottish accent	anger	0.375
+10680	perfectquartz jog bit stay beside puff cheek huff time oh jeez jasper not	anger	0.375
+10681	richardhbell yes think hold grudge	anger	0.375
+10682	  can not guess hold grudge good	anger	0.425
+10683	joegoodmanjr solution assumption medium article every venue cause animosity conversation	anger	0.354
+10684	lisaasquithtobe craig8710 waynehaselden june65wigan everyone wigan big club	anger	0.354
+10685	lyskoi anyway find short scale today perfect purpose soft hand will not aggravate nowchronic tendonitis	anger	0.354
+10686	gameday vs buford today 530 home never excited revenge	anger	0.354
+10687	tonight dragrace allstars2 episode give life yaassss queens teamalaska teamkatya revenge bwahaha	anger	0.200
+10688	kim_is__bored exactly say fb	anger	0.354
+10689	wasp sting itchy	anger	0.356
+10690	  haired man stride close watch major flinch away reaction draw growl throat dochquinzel	anger	0.322
+10691	srry feeling offend u	anger	0.354
+10692	sorry burst bubble not century anymore welcome 21st century	anger	0.354
+10693	can not even right bb18	anger	0.354
+10694	asian tiger mosquito relentless aggressive kind deal kid	anger	0.354
+10695	sometimes good motivation come prove wrong energy relentless motivationalquote	anger	0.354
+10696	lonelygoomba would not bring touchy subject people get way offend day	anger	0.328
+10697	lose fury fear fail	anger	0.354
+10698	need sushi date anzalduag olive guard date lexiereid369 rockys date tiff	anger	0.354
+10699	alarm clock ring morning n flatmate knock door ask set anything fire burn alive	anger	0.354
+10700	the_nasty_p got to fast n furious	anger	0.354
+10701	notquitefrodo dominictarason remember ta gamedev program say temper tantrum class time lol	anger	0.354
+10702	love tay amp tiff sit house work	anger	0.354
+10703	slow anger well mighty rule spirit take citynp1632 bibleverse pride	anger	0.354
+10704	meghanemurphy oh gosh get 800 rage comment cruise fan die laugh	anger	0.354
+10705	skip meal national way show disappointment wiz	anger	0.354
+10706	strong hand move firmly grope whimsicallywild thigh squeeze dig nail extract growl	anger	0.354
+10707	l1ght__eyes u try boil em take year	anger	0.354
+10708	rlh2606 u know die would also burst cryingnfrom joy	anger	0.354
+10709	crayontocrayon suescoby nit always fun anger old dude rock n roll	anger	0.354
+10710	bitter hurt lmaooo	anger	0.354
+10711	sometimes think british political landscape desolate look foam wasteland us think ok	anger	0.354
+10712	wise man tell holdin grudge likenlette somebody live inside head rent free	anger	0.354
+10713	head home cut grass heat wanna go eat somewhere air condition adultingistheworst	anger	0.354
+10714	barackobama love lizzy warren late rage wall street	anger	0.177
+10715	forget mention buy dreamboy ticket	anger	0.354
+10716	pray lord keep anger hate jealousy away heart sign maturity conciseness	anger	0.354
+10717	little sister sure hold grudge	anger	0.333
+10718	shieldscap lt steve foot feel blush ste cheek undress thank much snap gt	anger	0.333
+10719	one main thing w 13c fill void empty bitter heart make everything want grow	anger	0.333
+10720	snap music keep run traffic 20052007	anger	0.333
+10721	anger rise think consequence quote wisdom	anger	0.333
+10722	never make decision angry never make promise happy wiseword	anger	0.333
+10723	keep mind weak not insult people human	anger	0.333
+10724	tdsnation watch video like madden well	anger	0.333
+10725	projection perception see someone else also level within worry	anger	0.333
+10726	ranger v celtic revenge	anger	0.333
+10727	lethargytyler ehhh guess want everyone ever burst laugh front	anger	0.333
+10728	kateracculia themathofyou true reverseengineere drink scientific method hear rage	anger	0.333
+10729	kodieburch yesssapparently popular snap	anger	0.333
+10730	grown adult not drink never drink assume raise around rage alcoholic want part	anger	0.333
+10731	eamaddennfl easport play game john elway sack 3x fumble 3x john elway know	anger	0.333
+10732	zumba piyo hiit sessions sweaty burn sooooooo good missedoutonsummerbikinibodybutwintersunbodywilldo	anger	0.333
+10733	jamiesonhelen mariankeye three agin pout	anger	0.296
+10734	anger cheap politeness expensive not expect everybody polite thoughtfulthursday politeness	anger	0.333
+10735	not give someone power let word offend	anger	0.333
+10736	rt yoelamite need one back whole cd hard one rage fly rhyme flow n 1 u speak dollar	anger	0.333
+10737	lot 100 would give ghandi road rage	anger	0.333
+10738	stutteringgiant least character fast furious pump adrenaline franchise	anger	0.333
+10739	tell happy anniversary u happy ampalaya paitpaitanangpeg	anger	0.341
+10740	love pinksaltwarrior angry tweet bc make laugh also hate bc make miss	anger	0.333
+10741	find initiative not even thing	anger	0.312
+10742	cigarette burn lauras hand angle chin purse lips104 gorgeous transitionlaurengrodstein	anger	0.312
+10743	resent india pakistan problem save nawazsharifnimrankhanptinptiofficial	anger	0.312
+10744	awareness seek shelter letgo old habit chase desire resultin anger fear worry choose satisfaction within peace relax	anger	0.312
+10745	realjeffsdomain wolfpack theme tron sting wear wolf shirt	anger	0.312
+10746	mhchat sadness resentment past sadness fear future try live mhchat	anger	0.172
+10747	anger cheap politeness expensive not expect everybody polite thoughtfulthursday anger politeness	anger	0.312
+10748	jojojosiejay case rage moody cow lol buy moody cow sock lol	anger	0.389
+10749	u b mind business grind relentless lito615	anger	0.312
+10750	hold grudge not make strong make bitter forgiving not make weak set free	anger	0.312
+10751	pianimadi regarde tes snap	anger	0.312
+10752	standard candice start show pout startasyoumeantogoon gbbo	anger	0.330
+10753	klipto orange one poisonous bitter not judge blue one look taste delicious	anger	0.312
+10754	get madden 17 2k17 ps4 add trackdawgt let run	anger	0.312
+10755	wish next madden story mode like fifa 17 madden	anger	0.312
+10756	metsprospecthub brianpmangan take offense acounthe rank 32 36 last 2 year sabr	anger	0.312
+10757	justinbieber thank u justin amazing concert can not believe u provoke thousand smile nightbelievetour	anger	0.312
+10758	the_boxing_hub klitschko klitschko fury day box	anger	0.312
+10759	good revenge massive success	anger	0.312
+10760	tiangong 1 china first space laboratory come fiery end late 2017 average decommission satellite either burn	anger	0.312
+10761	houston might lose coach tomorrow midnight yike	anger	0.312
+10762	well line swedens goal sure ste	anger	0.312
+10763	not get bitter get well	anger	0.312
+10764	not bitter	anger	0.292
+10765	go n bodega 4 incense lookd sis behind counter amp like mirror say u say say originally	anger	0.185
+10766	recommend read prisoner hate aaron beck	anger	0.292
+10767	charlottebnntt joke know incense	anger	0.222
+10768	level half much well offense expect second half	anger	0.182
+10769	sueblue35 nsoz7 immortalbulldog huh sprint coach slow team comp talk rob living	anger	0.292
+10770	firsttweetever sippin hotchocolate wonder finally give lt3 haha hellloooootwitter facebookisforfamily	anger	0.292
+10771	one favorite classic car plymouth fiery	anger	0.292
+10772	life order complete amazing life journey successfully	anger	0.357
+10773	kik want swap pic post account anonymously wish kik vsvplou kik kikme snap nudes tit snapchat	anger	0.292
+10774	focus not let other love define happy not let make bitter get hurt	anger	0.292
+10775	wish next madden story mode like fifa 17	anger	0.292
+10776	impugnvalkyrie frown cup cheek hand step aside angela care not know else	anger	0.304
+10777	intensity sydneyswan play extraordinary relentless aflcatsswan aflfinal	anger	0.292
+10778	need new outlet	anger	0.292
+10779	need sushi date anzalduag olive guard date lexiereid369 rockys date	anger	0.271
+10780	leener00 libbyfloyd1 g_eazy snap andriapreble	anger	0.271
+10781	color leave change heatwave la still rage latte make batch visit pumpkin patch fallsong	anger	0.271
+10782	shopgreenwich ldf16 shall weekend spraypainte greenwichmarket snub23 core246 lilylou fret amp benoakley	anger	0.271
+10783	take man suffer ignorance smile matter say	anger	0.271
+10784	frizzeyesjr meeee lvl 320 single relentless	anger	0.271
+10785	_ inferno217 _ paladinsgame ummm dragon fury though	anger	0.271
+10786	nessamatthews perfect even way sort resent suspect lead double life perfect	anger	0.271
+10787	jetmisstee think peep snap homie lol	anger	0.271
+10788	pbump andyrichter heart go woman indignity sit	anger	0.271
+10789	can not fight elephant wrestle pig quoteoftheday relentless	anger	0.271
+10790	serendipity127 _ zombiecalorie angel_eyes66 sense theme tho lol	anger	0.271
+10791	espn assume want free magazine	anger	0.271
+10792	luck rest fall go anything like today think go like season bestdayever magic work snap	anger	0.271
+10793	newenglandpatriot jersey look like whack one try make make custom jersey madden 04	anger	0.271
+10794	dmanthonyjoseph theclumpany grudge truth abundance	anger	0.271
+10795	lesdoggg take jk fun relax get massage two chill not eat cucumber place frown	anger	0.271
+10796	630am meet olympic house 10golds24 neverquit believe dreambig teamtto going4gold	anger	0.271
+10797	houston might lose coach tomorrow midnight yike offense	anger	0.271
+10798	easy hold grudge hard let go	anger	0.295
+10799	prayers amp protection brother sister fight charlotte machine	anger	0.189
+10800	test	anger	0.250
+10801	happiness good revenge	anger	0.250
+10802	forget nice area fiery hearth	anger	0.250
+10803	take man suffer ignorance smile matter say ste	anger	0.250
+10804	kingnicky7 also madden not funny game watch not much happen boring	anger	0.250
+10805	mm okay ham turkey give hair ruffle head back kitchen set gtgtndarksithkenobi	anger	0.250
+10806	oh watch rage like age	anger	0.250
+10807	like hello first bear must always laugh joke	anger	0.324
+10808	sometimes good motivation come prove wrong energy motivationalquote	anger	0.250
+10809	tonight dragrace allstars2 episode give life yaassss queens teamalaska teamkatya bwahaha	anger	0.250
+10810	naoto nod also like tha band also frown band papa roach concert	anger	0.229
+10811	someone keep laugh not fret least u r give happiness nquote quotestoliveby	anger	0.229
+10812	wesrucker247 sound like good game plan offense	anger	0.202
+10813	important thing bestrong hold thought	anger	0.147
+10814	ranger v celtic	anger	0.229
+10815	think may	anger	0.229
+10816	really study today chemistry play madden way fun	anger	0.208
+10817	love word fret much heaven	anger	0.127
+10818	wwe live event brock vs orton 2 saturday wwe network need wwe randyorton heymanhustle	anger	0.208
+10819	thursday 6 pm vesper amp meditation prayerful plainsong multisensory candle incense psalm music silence faithful sing listen	anger	0.208
+10820	pray boy huff	anger	0.208
+10821	gameday vs buford today 530 home never excited	anger	0.208
+10822	snap hialeshia	anger	0.208
+10823	need stop second guess go first thought go	anger	0.208
+10824	630am meet olympic house 10golds24 relentless neverquit believe dreambig teamtto going4gold	anger	0.208
+10825	ezlisteningdisc not offend weird	anger	0.188
+10826	drop snapchat name bore swap pic	anger	0.188
+10827	follow snapchat carlabtst15 snapchat	anger	0.188
+10828	love girl busy teach pout take selfie mall desication immense woman love perfection	anger	0.188
+10829	follow girl tiff get 3 follower 00tiffanyr	anger	0.188
+10830	ms_heartattack peanut butter take away sting	anger	0.188
+10831	hate see frown rather see smile	anger	0.188
+10832	jaredleto jared snap	anger	0.188
+10833	kik want swap pic post account anonymously wish kik vsvplou kik kikme nudes tit snapchat	anger	0.188
+10834	order vacation bathing suit one less thing fret	anger	0.188
+10835	cheap pout brodcast	anger	0.232
+10836	ughhh love clean house incense light aromatherapy	anger	0.260
+10837	follow snapchat carlabtst15 snapchat snap	anger	0.167
+10838	vale vale sip sangria taste tantalize tapas elcidla fiery flamenco night minutesfromhom silverlake la flamenco	anger	0.167
+10839	grateful hungry people life hungry learn change grow help etc sure anybody well relentless	anger	0.167
+10840	love new song can not stop think ste	anger	0.167
+10841	thomeagle help maintain boost status world class centre education culture tolerance	anger	0.167
+10842	savageimiike one favorite song brother real talk	anger	0.157
+10843	one month til someone bday think time flaunt get something pretty awesome	anger	0.143
+10844	aurena1701 angryorchard not ste luckily fly happy drunk lolololol	anger	0.146
+10845	ellie give load gift note em uni n burst tear love	anger	0.146
+10846	eaglegiles23 tgilmore_92 miss	anger	0.146
+10847	callidissima ahouseingotham wrath khan one good movie time	anger	0.146
+10848	girly sense always lash amp nail do tomboy sense black color amp refuse ruffle life	anger	0.146
+10849	follow follow relentless success	anger	0.125
+10850	cburt43 turn frown upside	anger	0.125
+10851	corningfootball game day minus 1430	anger	0.125
+10852	rise incense good thing ever buy	anger	0.125
+10853	jaaames1993 literally burst laugh	anger	0.067
+10854	follow follow success	anger	0.125
+10855	wrinkle merely hide frown mark twain	anger	0.125
+10856	love new song can not stop think	anger	0.083

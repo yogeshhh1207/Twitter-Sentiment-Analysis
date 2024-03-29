@@ -1,0 +1,786 @@
+40000	depression suck depression	sadness	0.958
+40001	feel worthless always depression	sadness	0.958
+40002	feel worthless always	sadness	0.958
+40003	fibromyalgia really bad lately good mental state feel overwhelmed anxiety bipolar depression	sadness	0.946
+40004	think lie bed day sulk life hit hard rn	sadness	0.934
+40005	try fail not try still fail confused lose	sadness	0.917
+40006	extreme sadness	sadness	0.917
+40007	life one word depress	sadness	0.917
+40008	panic attack bad feeling really sick still shake sleep anxiety depression	sadness	0.917
+40009	feel grim ugly atm	sadness	0.896
+40010	honestly depression kick ass lately	sadness	0.896
+40011	age see gray gray bad eye perspective depression healingjustice	sadness	0.896
+40012	3 idk start feel depress sad lonely	sadness	0.896
+40013	sulk much good	sadness	0.896
+40014	night depression win depression fml help	sadness	0.896
+40015	go home depress	sadness	0.896
+40016	can not even grieve one black body another one pop due pig brutality	sadness	0.892
+40017	gloomy ass day	sadness	0.888
+40018	fra93_bruno wow really sadden terrible	sadness	0.875
+40019	head still ibiza body sit desk work depress	sadness	0.875
+40020	ashleyavitia _ not leave sad	sadness	0.875
+40021	depression suck	sadness	0.875
+40022	week awful connectivity tmobile service 4 g pay unhappy poorservice	sadness	0.870
+40023	depressing shit ever	sadness	0.861
+40024	sometimes bad place headnnquote worstenemy depression thinktoomuch	sadness	0.854
+40025	tmobilehelp service cleveland oh go unhappy	sadness	0.854
+40026	sad evening clear harvey cage belonging final goodbye little man depress	sadness	0.854
+40027	15 doe run opposite side depression	sadness	0.854
+40028	moment day start plaster smile face depression	sadness	0.854
+40029	hate gloomy outside always get depressing mood	sadness	0.839
+40030	people steal thing work quite damper day go wear pajama day	sadness	0.833
+40031	flakejay ring ring depression	sadness	0.833
+40032	september still battle situation say handle march year att unacceptable unhappy	sadness	0.833
+40033	xbfdr yeah sure depressing talk parent phone instead talk downstairs	sadness	0.833
+40034	  home sick blue will not cure need idea sorethroat sick blue music fallweather carletonuniversity ottawa	sadness	0.833
+40035	would not wish anxiety depression even bad people fun anxiety depression	sadness	0.833
+40036	sorry main twitter depress	sadness	0.833
+40037	markgatiss surround trump voter right fucking terrifying redstate despair	sadness	0.833
+40038	come funeral tomorrow 12 mourn death gpa	sadness	0.833
+40039	tnfryed jesus make think vol v fl game see never see win depression	sadness	0.833
+40040	spend 450 debenham offer 5 voucher ask could spend weekend tell valid today unhappy	sadness	0.814
+40041	think pretty solid gpa kin major look average dpt program feel even discouraged	sadness	0.812
+40042	depress	sadness	0.812
+40043	lament nsaddened heartnso far amp nyet nearnthe year sontough amp scarrednthis lonesomenroadnstill fear depression nnpoetry poem	sadness	0.812
+40044	summer officially end today sadness	sadness	0.812
+40045	well evaluation come back minimally effective student test score parcc sink eval time quit teaching	sadness	0.812
+40046	bad news fam life still hard awful depression anxiety atleastihavebuffy	sadness	0.812
+40047	oh get depression happy not think try thousand time already help	sadness	0.812
+40048	really constipate depress	sadness	0.812
+40049	health insurance will not cover tms let know cover ect mentalhealth psychology depression tms ect	sadness	0.811
+40050	somewhere hope despair day meetingmyabuserincourt ndvsurvivor	sadness	0.810
+40051	christy_rtr doge_e_fresh despondent	sadness	0.806
+40052	2 application dbs still wait year go loose job govuk thank unhappy crb	sadness	0.792
+40053	miss social medium place get laugh jump dms lol shit depress	sadness	0.792
+40054	hayles_101 three rs depress	sadness	0.792
+40055	many gloomy day	sadness	0.792
+40056	weather sure match mood state today gloomy	sadness	0.792
+40057	dirty self loathing attitude mope talk	sadness	0.792
+40058	wear black tomorrow continue mourn life recent victim police brutality blackout wu	sadness	0.779
+40059	person dislike fall firstdayoffall leave thingsdie depress cold noflipflop	sadness	0.771
+40060	soul weary fight battle world blackinamerica wearenotsafe	sadness	0.771
+40061	prayer family friend amp member vcfd mourn loss engineer ryan osler lodd rip	sadness	0.771
+40062	wish appreciate turn take care want break tired	sadness	0.771
+40063	pureleine though lately bad depression feel like body like take little get	sadness	0.771
+40064	leave maine sadness	sadness	0.771
+40065	fucking sad person love not try fight happiness anything	sadness	0.771
+40066	jccrocker charlotteprotest u wait 4 fact video u hate ask question later sad protest policeshooting suggestion	sadness	0.771
+40067	interesting photo mono lisa cry well whole scene depressing ele6200	sadness	0.771
+40068	news dishearten everything go result lack understanding misinformation medium sadness	sadness	0.771
+40069	never ever unhappy life lmao	sadness	0.771
+40070	lebara bad possible decision could make arrive uk shocking service poor coverage unhappy	sadness	0.771
+40071	condolence jc georges family sad	sadness	0.771
+40072	one want win wild card play cub road sadness	sadness	0.767
+40073	groom gloom	sadness	0.766
+40074	not think go work tomorrow since val leave gbbo need day mourn	sadness	0.754
+40075	good morning lovely people go to lie wake feel pretty glum	sadness	0.754
+40076	6itmap can not help feel melancholic	sadness	0.750
+40077	ctv_powerplay lraitt horrid disease maternal grandmother sister suffer affliction hard	sadness	0.750
+40078	anybody need ill drown blue sea whiskey	sadness	0.750
+40079	jeremycorbyn magstogether god jeremycorbyn full shilling seriously need major rethink lab gove lifetime sad	sadness	0.750
+40080	health think depression feel like	sadness	0.750
+40081	gaychel22 kellee_ii seattlepi even hard fact not seem sink despair	sadness	0.750
+40082	depress darker much early	sadness	0.750
+40083	kingjame chrisboshn good heart lose job responsible 2 family information profile even dollar can not retweet	sadness	0.750
+40084	currently unfollowe anything relate disneyworld florida holidayblue depress wantogoback	sadness	0.750
+40085	begin lady gent war racism begin sadness segregation continue smh	sadness	0.750
+40086	wish appreciate turn take care want break tired lose	sadness	0.750
+40087	mary berry mel sue go principle paulhollywood go fame fortune gbbo depress	sadness	0.750
+40088	crimsonwulfe super sad especially talk real person bot make feel real	sadness	0.750
+40089	ily_geuly call lay bed mope like intend next 2 month	sadness	0.740
+40090	baaarissshhhhh sad song prefect night feel alone	sadness	0.729
+40091	gloomy today	sadness	0.729
+40092	honestly come place keep get discourage get to tell keep push	sadness	0.729
+40093	  kotakbankltd udaykotak official get touch issue address unhappy patheticservice	sadness	0.729
+40094	back cardiff amazing 10 day away depress	sadness	0.729
+40095	lose fade	sadness	0.729
+40096	sometimes bad place headnn quote worstenemy thinktoomuch	sadness	0.729
+40097	british_airway come ba6426 ortambo_int least 6 passenger broken bag new suitcase unhappy customer	sadness	0.729
+40098	tell suppose feel break hateful guilty love sadness	sadness	0.729
+40099	tomorrow last episode despair arc much shit go to happen emotionally prepare	sadness	0.729
+40100	thezantarin maybe keep white mouth shut let people target speak mourn	sadness	0.729
+40101	rockcock64 cum despair	sadness	0.729
+40102	ill say black man afraid leave house move violationnnterrancecrutcher truth sad	sadness	0.729
+40103	sad	sadness	0.729
+40104	wanna pop pill sedate wake tomorrow	sadness	0.729
+40105	patti seem sad stamp run behind sofa give plenty love affectionmore usual sad	sadness	0.729
+40106	feel like house we basic requirement literally option discourage	sadness	0.729
+40107	not wanna go work want money sad	sadness	0.729
+40108	wow denver housing market depress place buy range fml	sadness	0.729
+40109	one ep despair arc make happy go back future arc upset	sadness	0.729
+40110	nap 3 day row unhappy rn	sadness	0.729
+40111	megalvz literally gloomy hour	sadness	0.729
+40112	mendiphillsaonb think swallow swift go photod 3 night ago see since sad autumn	sadness	0.729
+40113	fucking gutte dishearten amp pissed offgone 1 tough resolute defence bad amp shambolic scfc stohul	sadness	0.729
+40114	tootingcommon stop not make laugh sad	sadness	0.708
+40115	condolence jc georges family	sadness	0.708
+40116	gopro ux online appal clear save button able use generic tld unhappy	sadness	0.708
+40117	literally make depress tbh	sadness	0.708
+40118	waberme ravallirepublic good one reporter quit sad	sadness	0.708
+40119	room rather dreary endure must	sadness	0.708
+40120	break hearted lover cry away gloom	sadness	0.708
+40121	another grim amp compelling news report nawalf blockade aid starving yemen bbc dosomethingpolitican	sadness	0.708
+40122	gcc_discgolf lose xt nova around hole 8 9 sadness	sadness	0.708
+40123	uber_rsa click cupcake vehicle available sadness	sadness	0.708
+40124	nasty nasty chilly rain put damper afternoon cigar good thing cspanwj four congresscritter tomorrow	sadness	0.708
+40125	get diagnose severeextreme depression not know difference two lol	sadness	0.708
+40126	haikuchallenge haikunnthe crisp autumn airnmy freedom purchase deathnno one mourn	sadness	0.708
+40127	smokey dad sad	sadness	0.689
+40128	americans whole part feel borderline despair least look situation control	sadness	0.688
+40129	ryyyshh story life lose	sadness	0.688
+40130	week full monday end dishearten	sadness	0.688
+40131	hannahfjame distraught candice pout piss	sadness	0.688
+40132	hutchinsondave not know whether despair agitate cull	sadness	0.688
+40133	sulk peace	sadness	0.688
+40134	sad man leave work little bit late bad fear oh get stop police sad ourworld	sadness	0.688
+40135	car dent hail sad	sadness	0.688
+40136	head think well obviously relapse sadness sickness madness misunderstand	sadness	0.688
+40137	wilsonsworld high school remember help neighbor clean back home greenville pretty sobering stuff sadness	sadness	0.688
+40138	sleep cootiesni close eye dream awake weary sleepissue narcolepsy	sadness	0.688
+40139	wow almost tmobile store san diego note7 replacement sadness need get mine replace	sadness	0.688
+40140	forget hair straightner home feel lose without lose lostwithoutmyhairstraightener	sadness	0.688
+40141	will not even get start hillary fancy fundraiser depress	sadness	0.688
+40142	underground waterloo nice place 830am thursday somanypeople grim	sadness	0.688
+40143	week full monday end	sadness	0.688
+40144	samkingftw ew omg grim	sadness	0.688
+40145	thatsabingo grim really	sadness	0.688
+40146	loyal heart concern somber	sadness	0.688
+40147	knology provide customer wequipment not deliver speed internet service charge unhappy scam	sadness	0.688
+40148	cnn yes many cop many ppl lose life r still alive	sadness	0.688
+40149	find lose stay passerby get lose musing melancholy	sadness	0.680
+40150	get use phone sad	sadness	0.680
+40151	slug vitamin pill handful like mampm eternal winter end melbourne grim overit	sadness	0.675
+40152	sometimes support network cause damage nn support damage alone tired hurt nojustice surivivor nomore	sadness	0.670
+40153	justiceslut420 sadly sort poster die 90 afaik	sadness	0.669
+40154	lucy_hyner soulboy2266 sadly one less hour drinking time	sadness	0.667
+40155	dark room 58 minute fail every time try develop photo frustrated	sadness	0.667
+40156	mix emotion sadness anxietymaybe missingfriend growingupsuck lostfriend wheresthetruefriend complication	sadness	0.667
+40157	jay_2752 thank shall mourn	sadness	0.667
+40158	make yearly transition excited hopeful college returner sick exhausted pessimist college	sadness	0.667
+40159	gervaisoholic easy ride child cry noh find mefind nothing nwe sullen misty moor	sadness	0.667
+40160	give 11yo afam son advice today polite sudden movement keep hand see sadness	sadness	0.667
+40161	man southampton wipe floor west ham sunday dishearten	sadness	0.667
+40162	fly_norwegian quite simply bad airline worstairline ever use shocking appaule dire dismal beyondajoke useless	sadness	0.667
+40163	hate know get half 5 gym morning depressing	sadness	0.667
+40164	deltaassist try 2 get early flt 2day bwi turnd away bcuz 2 late agent let pas silvereliteleftbehind unhappy	sadness	0.667
+40165	love ex united manager twitter form fanbase honestly despair time back fucking team eh mufc	sadness	0.667
+40166	go back 2 week start seriously dreadful	sadness	0.667
+40167	honestly upset reward nicole 500k depress paulwasrobbe rewardhardwork bitterjury bb18	sadness	0.667
+40168	not watch favorite youtuber month honestly make depression much bad	sadness	0.667
+40169	midnight endtrumpweek please depress	sadness	0.667
+40170	mhchat think sadness feel strongly physically mentally feel like take hard focus work mhchat	sadness	0.667
+40171	gagasklaine old sadly	sadness	0.667
+40172	tdyln sadly	sadness	0.667
+40173	terencecutcher tulsa man onthe helicopter say look like bad dude problem see black see bad sad	sadness	0.667
+40174	katheartwell not see difference court appeal woman vs deception amp pressure depressing	sadness	0.667
+40175	way hard get discourage	sadness	0.667
+40176	depressed suicidal person see someone sing depressing life yet fun relatable encouraging	sadness	0.667
+40177	return dead desire clean apartment eat something not garbage managing depression	sadness	0.667
+40178	westhamutd poor service tonight find season ticket holder seat purchase online force move away unhappy	sadness	0.667
+40179	even pencil never stay end	sadness	0.667
+40180	gutte drop one earring sink school	sadness	0.667
+40181	holiday blue wanttogobacktominehead	sadness	0.661
+40182	rather die alone end somebody can not sober	sadness	0.660
+40183	not think fully sink val go yet	sadness	0.654
+40184	hate sober pop two	sadness	0.653
+40185	pretty clear can not stand hillaryclinton tolerance habitual liar trump fan either citizen despair	sadness	0.646
+40186	moneyjay901 hard tell pic mistake either way nothing say initially race u take sad ignorant	sadness	0.646
+40187	x_kimtaehyung_x n momentarily disappear solemnity anxiety lace feature nni run get	sadness	0.646
+40188	junior wear purple ollafest fight alarm need wake german sadness	sadness	0.646
+40189	fact not wear bra week know ill start wear one tomorrow depress	sadness	0.646
+40190	liam distant make mourn	sadness	0.646
+40191	september still battle situation say handle march year att unacceptable	sadness	0.646
+40192	weather get fuck like either sunny hot gloomy cold	sadness	0.646
+40193	attcare 2 wait 48 hour call back cancel order place already spend 2 hour phone sad	sadness	0.646
+40194	life short not shoot worry sadness grief	sadness	0.646
+40195	brb go sulk bed friday	sadness	0.646
+40196	lvlmleah nooooooooooooooooooooo stupid dismal lame winter maybe get dangerous ice	sadness	0.646
+40197	ripkara could see local mall school football game dishearten	sadness	0.646
+40198	rosskemp great programme tonight sad upsetting extremeworld	sadness	0.646
+40199	friend tell pretty trigger tell ugly first confused realise pretty ugly tru sad tumblr	sadness	0.640
+40200	mom tell yesterday look grim start drive tell turn around bc sick	sadness	0.640
+40201	not whole hijack argument argument use ban discourage display st georges cross shame lbc	sadness	0.636
+40202	not want pity instructor like understanding truly try despite circumstance make discourage	sadness	0.625
+40203	mhchat mhchat childhood experience inform adult relationship associative memory question ability process sadness	sadness	0.625
+40204	payet go either jan season end can not say blame boy must b dishearten see mo	sadness	0.625
+40205	laureeenwillam can not cope wi sour face tiny pout	sadness	0.625
+40206	many thing not care many thing not speak heaviness even release	sadness	0.625
+40207	knology provide customer wequipment not deliver speed internet service charge scam	sadness	0.625
+40208	happyandbashful flirt simper pout repeat yuck	sadness	0.625
+40209	el_tityboi bc gloomy day tony	sadness	0.625
+40210	rupindxr heart actually sink looooool confused	sadness	0.625
+40211	jack_haug_lifty eable ms btw lie remain dry remainer tear accept lose	sadness	0.625
+40212	can not stop finish deject luckily one bathroom go stall wait pant dry	sadness	0.625
+40213	wonder would happen father weary	sadness	0.625
+40214	amymek absurd could laugh right also not feel like cry future country despair wakeupcall	sadness	0.625
+40215	mxjackmonroe could not get either bit start droop not droop gp say mooncup alone blame	sadness	0.625
+40216	taylastjame happen vegas not origin prevelant sadly	sadness	0.625
+40217	ill eat way sobriety hell journey back sober	sadness	0.625
+40218	15 doe run opposite side	sadness	0.625
+40219	theshadeshit91 noh sorry sad nothing important world grieve	sadness	0.625
+40220	failure delivery time customer pay 16k rupee good tiagotatamotor tatamotor unhappy	sadness	0.625
+40221	everton_de_leon sterushton genuinely grim stuff century history sell porn baron twat minty new stadium urgh	sadness	0.624
+40222	sad man leave work little bit late bad fear oh get stop police ourworld	sadness	0.618
+40223	cctakato least crystal every part portray wrong dark atmosphere fact mamoru brainwash	sadness	0.613
+40224	way cool die young way young die sober tunechi	sadness	0.604
+40225	revtrevk wolfman93011 daraidernation erockhd take 2k number madden low drop people unhappy	sadness	0.604
+40226	clue charger lose	sadness	0.604
+40227	johnrmoffitt grim piece laughter stricken day	sadness	0.604
+40228	move clip youtube tonight vigil hold tulsa metropolitan baptist church terencecruther justice anger sadness	sadness	0.604
+40229	nail half hang absolutely fucking grim even acrylic hold	sadness	0.604
+40230	lose geelong football team nlast see enter banner sure since unhappy playwithsomeheart	sadness	0.604
+40231	deshbhakthoon always unhappy easily offend	sadness	0.604
+40232	sad day1st day falli not dislike falli love summer firstdayoffall goodbyesummer sadness bathingsuitsforever	sadness	0.604
+40233	tgshepherdvan yet not sink yet rest	sadness	0.604
+40234	awareness time awareness time lose awareness time lose	sadness	0.604
+40235	impugnvalkyrie frown cup cheek hand step aside angela care not know else	sadness	0.604
+40236	go to loooooong year brown fan long normal sad	sadness	0.604
+40237	talesofanalfa david_milloy ni like thinkingbut sadly shed	sadness	0.604
+40238	sadness leave break bed hold depth despair name love	sadness	0.604
+40239	substitute hood badge gun public opinion indictment charlotte police dark sadtime america race	sadness	0.604
+40240	mcfcdenver exact minus beer sadly	sadness	0.604
+40241	miss guy always make sulk	sadness	0.604
+40242	let we burden remembrance heaviness gonen william shakespeare 15641616nforge ahead	sadness	0.604
+40243	cause fail pass refuse sober	sadness	0.604
+40244	eehbahmum want make plummet depth despair	sadness	0.604
+40245	newyorker donlemon trump presidencya dark age usa world would definitely take we war short amp long term pain	sadness	0.604
+40246	unbelievably discouraged music late incredibly behind complete album dig	sadness	0.604
+40247	hennessey dreadful mutch even pitch fryer depth unfortunately cpfc	sadness	0.604
+40248	unhappy someone fucking tell unhappy leave not go fuckin around people side	sadness	0.604
+40249	conflicting report mama ritamarley healthmannn wake today feeling like mi ole selfrejoicenow dis sadness	sadness	0.604
+40250	blame manager watch player play abysmal team dreadful jose can not save we noone mufc	sadness	0.604
+40251	sorrow grim reminder bad video game could get bit trigger happy times rip mgs3	sadness	0.604
+40252	kind confuse one thing right great future hand new thing lose needhelp	sadness	0.604
+40253	v_of_europe ckolacia msm relentlessly say dt can not win depress gop turnout amp provide cover 4 steal election	sadness	0.604
+40254	voice miley alicia year long contestant sad thevoice	sadness	0.604
+40255	chocorobo one sad wtf	sadness	0.583
+40256	right may sufc fan football maybe shit marcos rojo mufc shocking start dreadful	sadness	0.583
+40257	get discourage try 5 fucking year contact lady gaga thousand tweet would see tweet	sadness	0.583
+40258	big_sl8 show respect u not go war u can not say anything u not lose friend mate war ahut	sadness	0.583
+40259	give blue guitar could not stand main character sort skimread end get grim unsettle 12	sadness	0.583
+40260	first coat pair sunglass next limb lose	sadness	0.583
+40261	people protest adrenaline rush depress	sadness	0.583
+40262	whenever pout want adrian appear tell stop pouting else	sadness	0.583
+40263	despair underneath every action neach every attempt pierce armour numbness mgla	sadness	0.583
+40264	please bear twitter savvy real life facebook person help gain follower blog selfhelp depression	sadness	0.583
+40265	always insensitive whenever grieve idgi	sadness	0.583
+40266	stevesingiser politico_steve put damper mood	sadness	0.583
+40267	lose	sadness	0.583
+40268	fantasygurusite know go would definitely buy not live texas can not play dfs depress	sadness	0.583
+40269	romero fuck dreadful like seriously 11 month old well	sadness	0.583
+40270	one step forward two step backward link rogerfederershop not work lose hope roger federer new website sadness	sadness	0.583
+40271	friend tell pretty trigger tell ugly first confused realise pretty ugly tru tumblr	sadness	0.583
+40272	know man assume realdonaldtrump heated argument penis sad	sadness	0.583
+40273	doubleeph sadly good day behind	sadness	0.583
+40274	groovydadad mhchat ty often conflate two depression sadness different q remind mhchat	sadness	0.583
+40275	not let behavior other destroy ur inner peace dalai lama owntv heal depression anxiety intuition meditation book	sadness	0.583
+40276	aerlingus business class los angeles dublin destroy luggage 60 day customer response time unhappy customer	sadness	0.583
+40277	jlkelly1 fj_berry get teampaella present way fi not think arrive saturday sadly	sadness	0.583
+40278	stg pine bluff morning piss even damn shoe come size 4 know say 6 fml	sadness	0.583
+40279	ashleyavitia _ not leave	sadness	0.583
+40280	pauljonmilne grim insanely determined hurt	sadness	0.575
+40281	comicfire thing either unproductive unhappy deal video badly	sadness	0.574
+40282	keyshamackie fucking dreadful live footy match	sadness	0.571
+40283	eat egg grim eat material embodiment fart unborn chick	sadness	0.563
+40284	never call sober	sadness	0.562
+40285	come let make em hate make em pout face	sadness	0.562
+40286	jacqueline_69 haha well today can not get beyond pout annoy afraid	sadness	0.562
+40287	hope instinct reason human mind could kill animal never know despair	sadness	0.562
+40288	patti seem sad stamp run behind sofa give plenty love affectionmore usual	sadness	0.562
+40289	dylon feel deject dejected aunt	sadness	0.562
+40290	two blanket hoody still eternal sunshine mope	sadness	0.562
+40291	send pitch brand close tab relevant instantly kind detachment create serious	sadness	0.562
+40292	nature look lot green gloomy dayz	sadness	0.562
+40293	jameswickham congratulation top homeowne tip try look mortgage balance often slowness depress	sadness	0.562
+40294	new lock sound grim	sadness	0.562
+40295	nothing workingyoure feel life edge_could go either way lose reason livingjesuschristhealssavesask fatloss	sadness	0.562
+40296	khloe_speak sad music	sadness	0.562
+40297	think val might go week ill take rest week work mourn sure understand gbbo	sadness	0.562
+40298	3 week course kitchen sink throw still pull knife fork ear	sadness	0.562
+40299	gaaaaaaaad stay london	sadness	0.562
+40300	marksandspencer 50 grapefruit squash gonenot able get week unhappy	sadness	0.562
+40301	mourn creativity lose	sadness	0.562
+40302	jinath_hyder can not alcohol sadly flare specific circumstance need careful	sadness	0.562
+40303	add donte moncrief dismal situation bless	sadness	0.561
+40304	shoutout drunk man bus piss bottle seat grim	sadness	0.548
+40305	u know u much ur mind u find clean stove kitchen almost 3 pensive	sadness	0.542
+40306	txdmv arkansasbbb fill report baitswitch carvana let go get fine levy badbusiness honoryourdeal unhappy	sadness	0.542
+40307	itch something serious rn not sleep consider take like 6 benadryl 20 min nap itch badly wow	sadness	0.542
+40308	tvscarlkinsella garbage obviously like suck still grim watch	sadness	0.542
+40309	team big bayern like play football pitch fuck dreadful certainly emirate pitch anyway	sadness	0.542
+40310	angry shouting match pessimist amp optimistnyoure half emptyheade nyoure half full	sadness	0.542
+40311	still wait yang guess really need sleep something kitten feel kinda deject right offline	sadness	0.542
+40312	onesowngrief shame world gloom day one almostthough make sense whole part hydrapart shieldc	sadness	0.542
+40313	u grieve someone legally not person yet	sadness	0.542
+40314	gloomy outside wish cold look	sadness	0.542
+40315	british_airway lose bag stillwaiting go home in2days dmd info ring 9time day wheresmybag	sadness	0.542
+40316	see tshirt phrase mind dangerous place would like buy italy not sell sadness	sadness	0.542
+40317	nephew see frown face tell beautiful	sadness	0.542
+40318	try take lose break make right	sadness	0.542
+40319	londonmidland dobetter two carriage 1449 birmingham hereford room stand anymore friday commute unhappy	sadness	0.542
+40320	become verb go to villaseñor old contact not need anymore sadness melissavcomedy waitingforexplanation	sadness	0.542
+40321	hillaryclinton thedemocrat ok 2 disgust dishearten presidential race not let stop u vote matter	sadness	0.542
+40322	5 blue ride cab homan belly much big rest bodyn could not preggyn lose day	sadness	0.542
+40323	ill say black man afraid leave house move violationnn terrancecrutcher truth	sadness	0.542
+40324	narcissusheiyan maybe different stay sixth form still oppressive architecture unintereste people	sadness	0.542
+40325	wysdaily confident never experience success last 50yr good hope another bournemouth sad	sadness	0.542
+40326	good already hit rock bottom even though two season away new depth despair playoff njdevil	sadness	0.542
+40327	absolutely believe generosity pour we give everything nick healthy happy lose	sadness	0.542
+40328	get bitch depress	sadness	0.542
+40329	groupon_uk contact shocking experience clear sky holiday book guy customerservicefail dreadful	sadness	0.542
+40330	cotsonika nhl well unhappy way play right fmjacob	sadness	0.542
+40331	simslover163 guess must really expensive whole family stay poland really miss	sadness	0.542
+40332	regret thing temper time regret thing inconsolable sydney j harris	sadness	0.542
+40333	untypical kinda friday dull	sadness	0.542
+40334	old cat piss always weary kennen senile kinda recently sweet attack bite	sadness	0.542
+40335	westermannnina xdd song weary	sadness	0.542
+40336	feel grim nail do	sadness	0.542
+40337	could crookedstuck updelusionaldimamp dark hearted dud surprise losingampprob also ppl will not let crime drop nwo imo	sadness	0.541
+40338	ak47 leave spine frown	sadness	0.521
+40339	good shorty much offer amp sad niggas not even see right front face late	sadness	0.521
+40340	thejeremyvine noel edmond reckon cat talk stress uncertainty gbbo future plot lose	sadness	0.521
+40341	one way ticket blue	sadness	0.521
+40342	swp_roads dull	sadness	0.521
+40343	thehill george h establishment unhappy trumps campaign brand son lowenergy could beat other either	sadness	0.521
+40344	marcus roho dreadful	sadness	0.521
+40345	kind confuse one thing right great future hand new thing needhelp	sadness	0.521
+40346	finish write second book tonight somber sad youpromise havemercy author writer needpublisher beingedite workingonsidebook	sadness	0.521
+40347	arcadianluthier take feeling kei unfairly lip form frown try walk away	sadness	0.521
+40348	deltaassist try 2 get early flt 2day bwi turnd away bcuz 2 late agent let pas silvereliteleftbehind	sadness	0.521
+40349	thank god warn walk sink cause lord know would sick stomach would want sue lbvfs	sadness	0.521
+40350	yeah home againnstill feel mixed inside amp kinda gloomy little optimistic ill figure	sadness	0.521
+40351	penny dreadful cleave fraction heart	sadness	0.521
+40352	fitzstockchart gundlach call round top doom gloom 15 move	sadness	0.521
+40353	everything far away time short rest weary	sadness	0.521
+40354	chelseafc let know blue	sadness	0.521
+40355	want help depression give office call learn tms may treatment wait	sadness	0.521
+40356	alicegoodman17 dunno get less spacious lovely autumnal melancholy present apocalypse	sadness	0.521
+40357	get pay vacuum rat poop never dull day biology department	sadness	0.521
+40358	terencecutcher tulsa man onthe helicopter say look like bad dude problem see black see bad	sadness	0.521
+40359	pandaflo22 sadden always strive bring good service customer always cm	sadness	0.521
+40360	someone need tell candice shell stick shitty pout wind change gbbo	sadness	0.521
+40361	health insurance will not cover tms let know cover ect mentalhealth psychology tms ect	sadness	0.521
+40362	purplereplisol meden frown non existent face	sadness	0.521
+40363	realdonaldtrump negative campaign doom gloom not win election	sadness	0.521
+40364	depression u not judge expose everyone help	sadness	0.520
+40365	mattwruff sadly constitutional right abortion yet constitutional right life safety net protect right	sadness	0.514
+40366	heycarajay inconsolable gif context	sadness	0.509
+40367	starklydark come come arm go anywhere tony swear steve tell quiet solemn	sadness	0.500
+40368	lisa get want time ultimately leave unfulfilled joyless	sadness	0.500
+40369	harowe sad truth	sadness	0.500
+40370	questlove people go realize riot perpetuate hate say go boycott city lose	sadness	0.500
+40371	not wanna go work want money	sadness	0.500
+40372	manutd rooney need come absolutely dreadful class goal carras16 carras16 show team	sadness	0.500
+40373	tune snapchat bean funereal	sadness	0.500
+40374	funeral close casket want play call recording complete glenewe lose podcast talkshoe	sadness	0.500
+40375	ryhenmessedup goodbye despair	sadness	0.500
+40376	ffs dreadful defending	sadness	0.500
+40377	raylewis name change uncle remus lewis foh theydontlikeyoueither lose unwoke	sadness	0.500
+40378	waitress recognise last time mope interview haha	sadness	0.500
+40379	day lose	sadness	0.500
+40380	anyone notice npr story recent day paint positive accomplishment trump challenge hillary surprised sad	sadness	0.500
+40381	chibireviews post series depression quite bad get well bet someone pick novel soon west	sadness	0.500
+40382	itriborg make feel vigorous fine kill say hestia display despair rather joyful	sadness	0.500
+40383	236416 dull sleep hourna crew patch rude mechanicalsnamndbot	sadness	0.500
+40384	2nd step beat anxiety depression realise wait take action	sadness	0.495
+40385	simonsssj123 ellieg10853 onision eugenia_cooney sure hell help depression still	sadness	0.485
+40386	jccrocker charlotteprotest u wait 4 fact video u hate ask question later protest policeshooting suggestion	sadness	0.479
+40387	nataliem55 sadly war often factor jump start we economic growth	sadness	0.479
+40388	grimstoyshow grim fuck go dame fucking clown take gameing channel way nj would delete	sadness	0.479
+40389	leed surely drop price cup tie rather dismal attendance last night	sadness	0.479
+40390	greencapt something note fact mask manufacturer produce smile frown	sadness	0.479
+40391	word happiness would lose meaning balance sadness	sadness	0.479
+40392	touchph solution punish criminal way discourage crime circle continue	sadness	0.479
+40393	kristenwacamera really enjoy episode bit gloomy day today feel sense inspiration listen	sadness	0.479
+40394	1pet 47 end thing hand ye therefore sober watch unto prayer	sadness	0.479
+40395	aidanparr haha sorry grim even disturb amp start lose trust twitter generally	sadness	0.479
+40396	literally guy somewouldsaysuccessful guy tell ship sail kay guy first work sub last sink	sadness	0.479
+40397	raveenelexiis fight racist girl stay gavc get kick call bs	sadness	0.479
+40398	brave young individual open we depression anxiety help raise awareness beyondblue	sadness	0.479
+40399	rough situation around schalke werder breman start campaign breman dash late new manager 0	sadness	0.479
+40400	not blame speak room kick chair beneath himnamwrite dark	sadness	0.479
+40401	actualflatticus veggie64_leslie mtracey call pessimist not think therapy fix whatever wrong anthony weiner	sadness	0.479
+40402	november canola lose 550 46420 per tonne	sadness	0.479
+40403	ticcikasie1 frown let distraught gardevoir say wish trainer	sadness	0.479
+40404	brad pitt investigate child abuse get really dark	sadness	0.479
+40405	bare video online anyone get rehabilitate anyone actually get help affliction jut get twitter video	sadness	0.479
+40406	always sober say drunk teach keep mouth shut n ernest hemingway quote	sadness	0.479
+40407	tooth sink vein poor woman accidentally small problem engine outside	sadness	0.479
+40408	lebara bad possible decision could make arrive uk shocking service poor coverage	sadness	0.479
+40409	lose 244 day snapchat streak do	sadness	0.477
+40410	reservehinata tend go get infection nnhe frown look nit must hurt damn	sadness	0.475
+40411	emotionallimine sadly mistaken think make tweet isolated comment random twitter user	sadness	0.469
+40412	attcare 2 wait 48 hour call back cancel order place already spend 2 hour phone	sadness	0.464
+40413	stop watch gotham cause drop tabitha barb relationship make pine main	sadness	0.461
+40414	_ juliasteiner like mope around episode moment emotional weakness feel sorry	sadness	0.460
+40415	wysdaily confident never experience success last 50yr good hope another bournemouth	sadness	0.458
+40416	never leave alone credit card nope nope mope	sadness	0.458
+40417	sandratxas 6bird4 cajunkangaroo justanavywife please could cloud passion emotion lead truth	sadness	0.458
+40418	horrible pun day make shall return cage dark corner cry amp laugh hysterical	sadness	0.458
+40419	house not always mess friend come mess serious twitter problem like friend filthy home	sadness	0.458
+40420	easily forgive child afraid dark real tragedy life man afraid lightplato	sadness	0.458
+40421	dxfyinggrxvity rather forlorn scan witch house rest back elphie grimmerie go	sadness	0.458
+40422	facmagnaamerica cureforinsomnia left say doom amp gloom trump train much fun	sadness	0.458
+40423	history repeat itselfgaa culture dare anyone think ok discourage irish person attend match final	sadness	0.458
+40424	mayor visit downtrodden part town brave pr stunt eleven	sadness	0.458
+40425	go pet supply plus tonight neitzkeamara work feel lose confuse	sadness	0.458
+40426	mik61scot longshankseddie rosazambonini youtube think sink tooth something mean 2b sooke	sadness	0.458
+40427	vivyau doom gloom want hear lovely thing airbnb	sadness	0.458
+40428	ynnsanity maybe ask study hard get job like way would not dreadful	sadness	0.458
+40429	cpt_srogers_nwell go one two way either get accept go change mope	sadness	0.458
+40430	carrielynne2323 totally get say donut 13 time one week lose 03 lbs get discourage linear	sadness	0.458
+40431	not know love sober sober selenagomez revival	sadness	0.458
+40432	skynews err not gloomy 172 mio people gloomy remain brexit	sadness	0.458
+40433	coalese sure half star get togetherbreak uphave affairslet porn vid slip outfightect etc rating sad	sadness	0.458
+40434	serious put word mouth bitch not add sentence not say shit blood	sadness	0.458
+40435	theflabar foggy dark morning filter time lighting purpose	sadness	0.458
+40436	donyou worthy enough know serious	sadness	0.458
+40437	friend lose hisher phone long mourn lose phone ask earpiece	sadness	0.458
+40438	lucidburrito not anyone else literally pull office cause someone complain spit sink yesterday	sadness	0.457
+40439	not anybody know watch penny dreadful	sadness	0.455
+40440	old person can not handle stufflol leave get back sober	sadness	0.455
+40441	bts_twt people much negativity fill inside always happy gloomy world someone like u exist namjoon	sadness	0.450
+40442	  unfccc uncclearn problem time take mean go date already sadly	sadness	0.445
+40443	try think positive let situation discourage	sadness	0.440
+40444	candice great british bake pout head	sadness	0.438
+40445	bbcsport dull uk	sadness	0.438
+40446	lazyboisam blue blue	sadness	0.438
+40447	sometimes think british political landscape desolate look foam wasteland us think ok	sadness	0.438
+40448	kikibug13 not look unhappy nnnngh get email notif thank	sadness	0.438
+40449	positive thought gloom cloudy day	sadness	0.438
+40450	train pitch black outside idea travel whereami lose adventure	sadness	0.438
+40451	ren102e906 not get discourage maybe prayer divine intervention help would help	sadness	0.438
+40452	janet_reid wonderful post novelist not discourage rejection usually work personal	sadness	0.438
+40453	cheap pout brodcast	sadness	0.438
+40454	try give time sober wait friend house 2 hour later gal wake nap vomit	sadness	0.438
+40455	alisontis otherwise commit crime soul sober ppl know good bad	sadness	0.438
+40456	rickygervais first time slough check new station floor sad lifeontheroad	sadness	0.438
+40457	niggas murk murky water try swim	sadness	0.438
+40458	talkrobyn oh dear watch woman pout well	sadness	0.438
+40459	lose heart dark underneath star	sadness	0.438
+40460	dark	sadness	0.438
+40461	fogo max pessimism bottom yet solid pe ratio restaurant let catch 8 level 10 level come	sadness	0.438
+40462	thatwhitesoxfan tbtrill sad white sox playing record	sadness	0.438
+40463	beetuppy sorry hear issue make feel not like hear customer unhappy	sadness	0.438
+40464	naoto nod also like tha band also frown band papa roach concert	sadness	0.438
+40465	delhi_lawyer bhagwanuvach shivaroor sad film story know could ploy escalate tension unverifie report hype	sadness	0.438
+40466	samkingftw nahh grim	sadness	0.438
+40467	last week cn go to sad leave also first plan break since go animation	sadness	0.438
+40468	adamaaronovich well need sulk always request song know	sadness	0.438
+40469	bonesarp disappointmentnnhe fake pout start chuckle	sadness	0.438
+40470	shoutout drunk man bus piss bottle seat	sadness	0.436
+40471	lord make instrument peace hate let sow love injury pardon despair hope	sadness	0.427
+40472	vilebairn turning old woman look sybil somber expression nnshe run away blame	sadness	0.426
+40473	hour play asfcofficial concede less west ham manutd northampton let sink	sadness	0.420
+40474	people leave toilet fucking grim state	sadness	0.420
+40475	jeremycorbyn magstogether god jeremycorbyn full shilling seriously need major rethink lab gove lifetime	sadness	0.417
+40476	nls top bureaucrat director group form oppose nls top megaproject nlpoli never dull	sadness	0.417
+40477	jwonder81 macadamionnut well courseprogress sake progress must discourage problem substance rhetoric	sadness	0.417
+40478	already plot next step get cut minivan tomorrow dropoff line preschoolpolitic momthing serious	sadness	0.417
+40479	sunderland time line quite funny doom amp gloom face we long trip we midweek whatgoesaroundcomesaround	sadness	0.417
+40480	gsmsbooksrus goodread shine good deed weary world roald dahl charlie chocolate factory	sadness	0.417
+40481	like keep grind boy life change one year even dark sun shine somewhere	sadness	0.417
+40482	ellenmellon_88 get mybrokenfoot run great north run can not wait run month time mostly dark ukrunchat	sadness	0.417
+40483	awareness time awareness time lose awareness time	sadness	0.417
+40484	ending meet mother dreadful	sadness	0.417
+40485	joycecaroloate nbreath trend despondent mrs clinton win keep glove guard punch like hell	sadness	0.417
+40486	a_rockasthe we add year syrian conflict arm rebel army would think iraq sink kerry	sadness	0.417
+40487	weak amp despair mighty god nearhe give we strength amp joy amp hope amp calm inner fear faith amp trust	sadness	0.417
+40488	work blanchardstown shopping centre 2 year figure today mark amp spencer lose	sadness	0.417
+40489	vinb alot interested hear bout difference party political ideology party murky origin r irrefutable vinb	sadness	0.417
+40490	higginbothams flippant dismissal worry around carrick lack pace dismal nimble midfielder carrick expose	sadness	0.417
+40491	flight 815 crash lose island 2004 lose joshuajthurston	sadness	0.417
+40492	littlebakaa alcohoiporn give smile emoticon ya not like idea frown gtlt	sadness	0.417
+40493	man pessimist 48 know much optimist know littlenmark twain	sadness	0.417
+40494	daltonrapattoni sadly go bed not announce anything go thank u love	sadness	0.417
+40495	msnbc fox cnn realdonaldtrump hillaryclinton use fear state view get fact make serious statement	sadness	0.417
+40496	marcos rojo play man united let sink	sadness	0.417
+40497	sometimes people leave halfway wood let grieve one leave good youarenotalone nooneisalone	sadness	0.417
+40498	lose wallet lol	sadness	0.417
+40499	kalis kitten ask frown curl fair skinned forehead show scar cat scarredtiger	sadness	0.417
+40500	ksmitely citizenmeh feel strongly need work together right dreadful wrong	sadness	0.415
+40501	raylewis name change uncle remus lewis foh theydontlikeyoueither unwoke	sadness	0.414
+40502	sister canadian player something shady jonathan toews frown not know worldcupofhockey	sadness	0.404
+40503	candice pout get preposterous week week go bit jack nicholson joker gbbo	sadness	0.397
+40504	mhchat mhchat childhood experience inform adult relationship associative memory question ability process	sadness	0.397
+40505	tehshockwave turn grumpy frown upsidedownnnyou something next impossible today	sadness	0.396
+40506	serious problem expectation private philanthropy replace functional government servicesthis dangerous	sadness	0.396
+40507	lidluk buy pack two medallion beef steak get home cook one steak 100 pork one unhappy mother	sadness	0.396
+40508	hopefully next time play l1 team 1 player score take shirt ampjump away end purely wind joyless cunt	sadness	0.396
+40509	life short frown long	sadness	0.396
+40510	leopard never change spot lose	sadness	0.396
+40511	need serious nap rn	sadness	0.396
+40512	sky news still push brexit gloom line manage ignore fact simply happen future	sadness	0.396
+40513	drsrsheikh ask gate crash dumb idiosyncrasy sober people analyze situationnbanobee ak_forty7	sadness	0.396
+40514	pessimist someone opportunity knock complain noise	sadness	0.396
+40515	lee_family5 usaneedstrump hillaryclinton realdonaldtrump can not serious man practice religion church campaignin	sadness	0.396
+40516	johnwildy71 something confused type entire word see laugh hour sadness almost pass	sadness	0.396
+40517	jenhasonen suppose dark gritty though	sadness	0.396
+40518	pretentious dick night gallery fucking use towel dry sink	sadness	0.396
+40519	evening though way light finish properly without cause serious mischief	sadness	0.396
+40520	interview preparation hate talk one dull subject matter yawnoff	sadness	0.396
+40521	duncantrussell remo williams ever actually save anyone sulk around kill random undesirable	sadness	0.396
+40522	joaquinputoamo vas ir al de amaity affliction	sadness	0.396
+40523	fatumoriginal sitcom well u can not laugh sheldon leonard u sober real two way	sadness	0.396
+40524	immense importance football sometimes scary not win responsible many unhappy people arsene wenger	sadness	0.396
+40525	kudo tc bench bruce not help team ride pine game win discussion met	sadness	0.396
+40526	people want go pine ridge little wound oelrichs start think transfer wanna stay cloud decision man	sadness	0.396
+40527	cam serious ig post stupid ass font use would well say nothing	sadness	0.396
+40528	vosachresrus wobble carry sink	sadness	0.396
+40529	episode today whilst editing power outage rebuildtomorrow podcast lose editing fail tomorrow	sadness	0.396
+40530	10carley sulky pant	sadness	0.396
+40531	see something hurt much past front single sign grieve magicalllll	sadness	0.396
+40532	do piano blue play smooth talk ass nexttt	sadness	0.381
+40533	sit sit room clove watchin manchester unide manutd v norffampton fink waynerooney still goal fret iced level	sadness	0.375
+40534	solemn thing small scandal kingdom see god child starve seat father table aw tozer	sadness	0.375
+40535	hey applesupport find play history new ios10 applemusic music lose	sadness	0.375
+40536	grow weary good treadline well deadline billclinton cgi2016	sadness	0.375
+40537	fellaini play ahead guyjust let sink	sadness	0.375
+40538	satanslezzie gehrig38 joesmith12431 ejamesl think huff pine tar use bat grip	sadness	0.375
+40539	go to loooooong year brown fan long normal	sadness	0.375
+40540	rosskemp great programme tonight upset extremeworld	sadness	0.375
+40541	tell wife chance would 2 sydney team afl grand final response two sydney afl team serious	sadness	0.375
+40542	moneyjay901 hard tell pic mistake either way nothing say initially race u take ignorant	sadness	0.375
+40543	floofeli wonder mother know dark humor beneed realize much butt apple pastel catscutie pie	sadness	0.375
+40544	damn gud premiere lethalweaponfunny serious	sadness	0.375
+40545	sundersay make laugh quote sort rueful way	sadness	0.375
+40546	come serious situation glad give deep think	sadness	0.375
+40547	doom gloom score open play concede two time progress mean 11 draw saturday	sadness	0.375
+40548	contactless affliction kart need must regard psychological moment xbeujgb	sadness	0.375
+40549	lbardugo start w 3 song blue neighborhoodn1 wildn2foolsn3talk wespernalson4too good serious kazinej feelz	sadness	0.375
+40550	grave beat bravehearte cave lover cage lover sage lover make soup twist spoony melancholy spike spice	sadness	0.375
+40551	like loon attic luckily quickly sink wrong pronunciation still could not stop say stick	sadness	0.375
+40552	onto sargon_of_akkad know secretly pine masculine order objective morality discipline transcendent pursuit	sadness	0.375
+40553	erykah badu sedate	sadness	0.375
+40554	margraham practically obsessed thought departure make feel melancholic grateful safe journey	sadness	0.375
+40555	not get discourage simple mind not see vision	sadness	0.375
+40556	thankyoucgi grow weary good cgi2016	sadness	0.375
+40557	jodikantor nytime pay responsible doing sober real blind	sadness	0.369
+40558	sober time get shit faced	sadness	0.360
+40559	not want perfect boring dull	sadness	0.360
+40560	lacesuntie _ yea lol catchy fret	sadness	0.358
+40561	timewarparcade tenpencearcade really pedal like nutter get anywhere remember sedate	sadness	0.355
+40562	aqw always stay 08 art style competition create detailed art time	sadness	0.354
+40563	pop joyless soulless toy look nearly identical perfect expression consumerism enjoy franchise	sadness	0.354
+40564	dinohyogi hakyeon take attention happily perch wonshiks shoulder sulk jaehwan accidentally cause tiny explosion	sadness	0.354
+40565	m_giacchino air radio film lot fan pond wale lose	sadness	0.354
+40566	serious chink indias armournproteinnmalnutritionnfeedingindianskillingindiancognitive deficitnabhijit_iyer	sadness	0.354
+40567	know man assume realdonaldtrump heated argument penis	sadness	0.354
+40568	standard candice start show pout startasyoumeantogoon gbbo	sadness	0.354
+40569	shopgreenwich ldf16 shall weekend spraypainte greenwichmarket snub23 core246 lilylou fret amp benoakley	sadness	0.354
+40570	mendiphillsaonb think swallow swift go photod 3 night ago see since autumn	sadness	0.354
+40571	patthemanager could work chancetherapper serious	sadness	0.354
+40572	marielleblaine8 princesskeilani tell pine not want not	sadness	0.354
+40573	rejoice birth grieve funeral person involve mark twain	sadness	0.354
+40574	fret scuffs ill take scuff whichcome phone use wet handed drop toilet day	sadness	0.354
+40575	jeffprobst we bear 85 generation genless tribe ha survivor lose sol	sadness	0.354
+40576	mariankeye maybe constipation issue know date relieve affliction way jose	sadness	0.354
+40577	regret thing temper time regret thing inconsolable sydney j harris	sadness	0.354
+40578	learn use twitter lose	sadness	0.354
+40579	therandomant meg_m203 yeah figure ornament way want spektar desolate gear well think right	sadness	0.354
+40580	corbyn lose walk cry corbyn supporter whispernndont mourn organisennand laugh laugh	sadness	0.354
+40581	netflix_me penny dreadful season 3	sadness	0.354
+40582	always borrow money pessimist will not expect back	sadness	0.354
+40583	  use pawn red womans game try fret act nothing amiss royal theladyofglenco	sadness	0.354
+40584	_ notoriety lol senior year would get early dismal work study boss know happen next	sadness	0.354
+40585	serious need nap	sadness	0.354
+40586	rihababyj aw problem feel like speak feel want overcome discourage	sadness	0.354
+40587	janhopis find first episode bojack incredibly funny get less funny stay drama	sadness	0.354
+40588	not know everyone pretend sad angelina brad everyone know dumb ass stay jennifer	sadness	0.354
+40589	imkristenbell lauralittlelegs pine nut chestnutpeanutwait wrong film	sadness	0.351
+40590	never switch stay person since day one	sadness	0.347
+40591	grow weary good last legacy billclinton clintonglobal cgi2016 thankfulmoment projectthankful	sadness	0.343
+40592	rich fume sullen sence cheerd	sadness	0.342
+40593	tell chiropractor good time long time question habit yet unnerve doctor	sadness	0.340
+40594	courteoussoul mattymcdee 349 decode 20 blue one 340 get blue	sadness	0.333
+40595	first weekend fall let see stay disciplined season goal fitness run sober mindset firstfriday family	sadness	0.333
+40596	people already talk halloween nyoull get dark music go itngothic bloody halloweenhorrornight	sadness	0.333
+40597	khoroshiysoldat preparednnnot far know dull reply still survivor member like say	sadness	0.333
+40598	bookofkaell quennell3 _ blue	sadness	0.333
+40599	name lord amp saviour harambe pray bless ape across worldnnhear solemn oath pardon sympathetic hominid	sadness	0.333
+40600	msfang say attract see maybe not pessimist not wanna take chance lol can not wait relocate	sadness	0.333
+40601	bro pine green forget not mediumpurple pickere light	sadness	0.333
+40602	jonathanhatfull ill look forward hope lot stetsontilte rueful look whiskey glass	sadness	0.333
+40603	shaytan room wallahi dark time lamp omg shaytan	sadness	0.333
+40604	ultimateboxer heart leave long againnnslight pout turn smilennheheh kid fine	sadness	0.333
+40605	bietron not sad btw good night davinago sleep larh	sadness	0.333
+40606	refuge recovery boston wed 7309 pm heal support addiction recovery buddhism meditation sober cambma meeting harvardsq	sadness	0.333
+40607	check work todaynncoffee drank serious business nnthursday bring friday	sadness	0.333
+40608	somehow 90 sausage pasta make sink bottom eat sausage tiny bit leftover pasta	sadness	0.333
+40609	holly_lolly7 serious respect man pull bun well like maybe teach way	sadness	0.333
+40610	transparency openness dull sell fan group want verb like buy defend building secure	sadness	0.333
+40611	anyone notice npr story recent day paint positive accomplishment trump challenge hillary surprised	sadness	0.333
+40612	quite sure craig gordon stay park	sadness	0.333
+40613	courtneymee 3 day sober not wanna ruin	sadness	0.333
+40614	wanna see smile not wanna see make frown	sadness	0.333
+40615	kurakkusora isnsure mind clouded	sadness	0.333
+40616	snore tl boredom sink	sadness	0.333
+40617	season 3 penny dreadful netflixwell afternoon fill	sadness	0.333
+40618	grow weary goodnnbillclinton	sadness	0.325
+40619	sheilacustis not expect woman violent amp discourage really raise boy	sadness	0.322
+40620	lol thefrankjlope award f bomb trophy autodealerlive realmatkoenig serious	sadness	0.321
+40621	jay z brad pitt cheat bey stay angie leave cheater love lust sex couple relationship date marriage divorce	sadness	0.320
+40622	carry wayward son peace do lie weary head rest not cry supernatural	sadness	0.318
+40623	vixen85webster yep amp stay pjs day lol x	sadness	0.312
+40624	footage not make mixdont get discourage run room beat week	sadness	0.312
+40625	superbatlane true also not escape almost car sink	sadness	0.312
+40626	order vacation bathing suit one less thing fret	sadness	0.312
+40627	cardiff_blues cardiffbluessc italy another round let drop play take big result guy blue	sadness	0.312
+40628	griffinlanep mediaite left protect long lose reasoning power	sadness	0.312
+40629	new job training much meat eat oh well also get approve drive lyft need car day35 sober	sadness	0.312
+40630	sober well roll another dutch u not smoke nigga well pour another cup	sadness	0.312
+40631	put winter duvet serious	sadness	0.312
+40632	tetravariation not need mask ill gladly make donation help ur name mr ty rex first initial serious	sadness	0.312
+40633	sober life	sadness	0.312
+40634	need sta date againi bored redheadteen boldandbeautiful lose 500aday single man date schkeuditz	sadness	0.312
+40635	_ mrs_peel lp_lisa paulrgoulden lisaluscious might pout star baker tho	sadness	0.312
+40636	dream last night chris brown create diss track drake rihanna call hit first dark	sadness	0.312
+40637	get short fuse sober	sadness	0.312
+40638	already plot next step get cut minivan tomorrow dropoff line preschoolpolitic momthing	sadness	0.312
+40639	never let see frown	sadness	0.312
+40640	xxnogard_g88 welcome dark honey	sadness	0.312
+40641	writerlytweet supine pianolip part sixwordstory amwriting blue singer	sadness	0.312
+40642	7 pax enjoy gloom clayorangecrush f3lakemurray	sadness	0.312
+40643	kinda wanna book vacation goanyone wanna tag along adventure serious	sadness	0.312
+40644	cigna bow moment rather sulk go ucsf opinion guy study oligodendroglioma amp amp	sadness	0.312
+40645	need syfy series watch literally nothing watch back back already watch hero lose jericho fallenskie etc etc	sadness	0.312
+40646	waberme ravallirepublic good one reporter quit	sadness	0.312
+40647	jaymohr37 droop see naked wrestling ask get hole one jaymohrsport	sadness	0.312
+40648	thecathesay may alwayshungry not sink low yet thereluctantcat	sadness	0.312
+40649	bless mourn comfort n mt 54	sadness	0.312
+40650	kelly_welle brilliant not make feel v dull one tattoo emoji x	sadness	0.312
+40651	tear r inappropriate day holy lord grieve joy lord strength nehemiah 810 niv joy	sadness	0.311
+40652	defiantsagacity hermione sort thank slide plate away frown ron continue	sadness	0.306
+40653	let get drunk tell thing afraid say sober	sadness	0.303
+40654	chelseafc let know	sadness	0.300
+40655	fateddancer together hermione lower voice slightly sound somewhat bitter perhaps even rueful would get	sadness	0.300
+40656	band member want contact newcastlegateshead sunderland musician musicbusiness musicislife music musically band blue folk	sadness	0.299
+40657	work blanchardstown shopping centre 2 year figure today mark amp spencer	sadness	0.292
+40658	askaman sound like serious issue cause siyahleka whole time fun	sadness	0.292
+40659	cherrivarisco audubonsociety oh yes male colourful female dull blend environment	sadness	0.292
+40660	name john locke can not tell can not lose アニメ	sadness	0.292
+40661	ya boy get mad tired pine tree	sadness	0.292
+40662	wonder guy broke penis sex serious	sadness	0.292
+40663	nianticlab example catch gloom would yield 6 oddish candy catch vileplume would yield 9	sadness	0.292
+40664	markoheight cassie_ob sound like vampire say wanna sink tooth tt lad talent	sadness	0.292
+40665	love word fret much heaven	sadness	0.292
+40666	marcos rojo marcos rojo run wing love blue fear red	sadness	0.292
+40667	serious	sadness	0.292
+40668	rickygervais first time slough check new station floor lifeontheroad	sadness	0.292
+40669	billswindell depauwu dick_nixon breakfast see blow cereal sink	sadness	0.292
+40670	peoplelikemebecause unknown reason try discourage	sadness	0.278
+40671	bill clinton grow weary good clintonglobal cgi2016	sadness	0.275
+40672	billradkeradio fan beat happening discourage aspire olympia musician kuowrecord	sadness	0.274
+40673	piggiewhopays lmao imagine frown across face hilarity	sadness	0.271
+40674	tweerialee stumble block pessimist step stone optimist	sadness	0.271
+40675	beiirke es serious 238	sadness	0.271
+40676	discourage slow sale market test business model pinpoint strength weakness ken_dunn	sadness	0.271
+40677	get lose neighborhood use gps phone find way lose googlemap blondmoment	sadness	0.271
+40678	emorottie true sonicsatam serious bit dark aosth like super goofy looney toonie degree	sadness	0.271
+40679	tgif hope everyone need find recovery friend stay sober weekend rebostreatment blvdcenter	sadness	0.271
+40680	pxrfectpeach get little pout	sadness	0.271
+40681	darryella not chip not get dull nail go look perfect whole time except go grow	sadness	0.271
+40682	not impress not depress	sadness	0.271
+40683	fret cool human follow become instantly cool bot	sadness	0.271
+40684	pessimist complain wind optimist expect change realist adjust sail william arthur wardnignite	sadness	0.271
+40685	littlemore20 nice italian icecream whilst rest tired paw honey flavour naturally furrytail lose venice	sadness	0.271
+40686	add paul walker xbox spend time dashboard dark humor funny	sadness	0.271
+40687	much time give friend lose laptop mourn ask give laptop charger extra battery	sadness	0.271
+40688	can not take u serious unless u use emojis	sadness	0.271
+40689	back forest drama nfrom forest music series 2016nnature dark art photography finland	sadness	0.271
+40690	makai_kishi _ eye stay glue monitor turn away anything	sadness	0.271
+40691	optimism may sometimes delusional pessimism always delusional alan cohen believe	sadness	0.271
+40692	god love springof one dat sink whole estate paltry bribeof single applen yet proud ancestry	sadness	0.271
+40693	house granddesign not forest wibbly wobbly pine plantation	sadness	0.271
+40694	beat accurately allpowerful respect highquality highfrequency speaker extra desolate relating fireea	sadness	0.271
+40695	gloomy weather put good mood	sadness	0.271
+40696	dad ask hungover function today little know stay sober last night could get shit face tonight	sadness	0.271
+40697	american idiot record turn twelve today change preppy middle school heart desolate punk rock desert forever grateful	sadness	0.271
+40698	tone n 12 favourite chris pine stan love tone anything mt sweet summer child attack anyone hurt	sadness	0.271
+40699	amateur sit wait inspiration rest we get go work stephen king author serious writingtip	sadness	0.271
+40700	hotelplanner stay hotel pack picnic lunch take road bettertogether redlizzy1 newfiechic ladybug_vic	sadness	0.271
+40701	cburt43 turn frown upside	sadness	0.270
+40702	ijuvia _ nnheare noises akame open eye sit face juvia not expect see someone around staid	sadness	0.266
+40703	petercoffin safe blue ok red ok well obviously battleground state would	sadness	0.263
+40704	hello fellow horror creepy dark stange story fan day followme ill followback	sadness	0.263
+40705	ddanddeltaboy play bridge bar rameltonwhatson sit 24th sept blue rhythmandblue ramelton donegal	sadness	0.254
+40706	oh goodness love rainy day head creative cap amp get lose thought kind day art create biz	sadness	0.250
+40707	one want win wild card play cub road	sadness	0.250
+40708	jazz blue root rest fruit	sadness	0.250
+40709	well hear girl attract man look like dad	sadness	0.250
+40710	labor love cheap inexpensive time spend earn lackadaisical dreamer	sadness	0.250
+40711	blue bob haddrell amp guestsnfri 23rd sep 830pm 1100pm blue free tunbridgewell	sadness	0.250
+40712	rashidalmaktoum serious intermediary require info project owner mail	sadness	0.250
+40713	930 howland cultural center beaconny vickie raabin amp chris raabe blue soul 8 pm localmotionwvkr hiddencitiesnyc 8458314988	sadness	0.250
+40714	ff nnthe_family_x nnsoul blue amp rock bandnnmusic heartnnwith soul amp passion nnxx xx	sadness	0.250
+40715	mmmm coffee good book dreary day beat	sadness	0.250
+40716	sometimes can not believe make far169 day throw demon n get sober clean n start recoverysobriety 2	sadness	0.250
+40717	clouded outnn consider use camera 1 star trail 2 eyepiece projection	sadness	0.250
+40718	learn trust god quiet troubled amp restless heart bring peace weary soul amp eliminate hopelessness addiction	sadness	0.240
+40719	pessimist see difficulty every opportunity optimist see opportunity every difficulty n winston churchill quote	sadness	0.238
+40720	altj hunger pine	sadness	0.235
+40721	grow ass lil boy yeah can not take serious	sadness	0.235
+40722	strong amp courageous terrify discourage lord god wherever go	sadness	0.229
+40723	let mrrobot binge begin nerdshow compelling dark	sadness	0.229
+40724	anyway car furious white man really funny story tell sober	sadness	0.229
+40725	ricefoday alex butler class financial management start great relevant class discussion movie sink cost	sadness	0.229
+40726	dark side moon fact darkngerry odriscoll end dark side moon	sadness	0.229
+40727	bluesfestbyron second artist announcement look good bluesfest2017 music byronbay	sadness	0.229
+40728	play yung fav song ni chavs sober	sadness	0.229
+40729	blurtalert dark night bright solemn face light smile totemprince believe	sadness	0.229
+40730	kcbbcxo not get discourage early amp get overwhelming keep read amp use cue card get well	sadness	0.229
+40731	damn gud premiere lethalweaponfunny	sadness	0.229
+40732	can not mourn kid cudi cause travis scott	sadness	0.229
+40733	joyful hope patient affliction faithful prayer roman 1212	sadness	0.216
+40734	isaiah 4031nthose trust lord find new strengthnthey soar high wing like eaglesnthey run grow weary	sadness	0.214
+40735	amb4jc drtonyevans job job people r still sanestill ok life help lose find amp love eachother	sadness	0.214
+40736	unmatched party specialist co t3revneverend serious job title	sadness	0.208
+40737	honestly not give af win we pine worried get drunk saturday night	sadness	0.208
+40738	not think luca understand serious fallhe idea store	sadness	0.208
+40739	keep feel heaviness left hand look awe every single time notusedtoit imafiancée wut	sadness	0.208
+40740	rapper stay true game rich	sadness	0.208
+40741	thetroche94 ramiro_cedeno yeah want become obese afford not think serious haha	sadness	0.208
+40742	hails_berry8 sajedhariri23 varsity pine riding	sadness	0.208
+40743	difference someone selfie happy vs unhappy absolutely amazing	sadness	0.208
+40744	katelynkolsrud thanks mucho kate sober	sadness	0.208
+40745	hyattd335 grateful novel award promo rt blessing dewayne hyatt hippie love grind blue florida	sadness	0.208
+40746	crucialbmxshop ohh silver lake come lot guy stay	sadness	0.208
+40747	damn_it_dillon samundomiel course happy hentai sad gloomy one	sadness	0.208
+40748	vaunwilmott prisonbreak pbwritersroom linc sink	sadness	0.208
+40749	lesdoggg take jk fun relax get massage two chill not eat cucumber place frown	sadness	0.206
+40750	stay night longnmade drink strongnfeele ten foot tallnrope swinge waternin middle night	sadness	0.200
+40751	thing dark curly hair	sadness	0.196
+40752	well hear girl attract man look like dad serious	sadness	0.188
+40753	tummy full steak wine key lime pine cuddle tap way turn around stressful wednesday	sadness	0.188
+40754	free live music dc tonight blue moonshinesociety thehamiltondc loft start 1030pm freeindcblog wtopfreebie	sadness	0.188
+40755	hannah_2401 hannah stop mournful chill	sadness	0.188
+40756	guy read fanfiction like lose housemd one tvshow link bio	sadness	0.188
+40757	m_giacchino air radio film lot fan pond wale	sadness	0.188
+40758	long day thank goodness bake brighten weary wednesday gbbo	sadness	0.188
+40759	tonight fulford arms york ntomorrow bank top tavern oldhamnnext saturday big hand manchester nnlivemusic punk blue rockandroll	sadness	0.188
+40760	proud understand show love think compassion do clouded way	sadness	0.188
+40761	blue bar	sadness	0.188
+40762	gop ahead poll amp trumps dismal performance upcoming debate easy win hillary	sadness	0.174
+40763	urbaneprofessor roast risotto sage pine nut	sadness	0.167
+40764	happiness always choose see point dwell dark ignore light star	sadness	0.167
+40765	good morning chirpy springequinox pensive sister autumnequinox perfect day however express thebeautyofbalance	sadness	0.167
+40766	also amazon prime would like help girl lol serious	sadness	0.167
+40767	add paul walker xbox spend time dashboard humor funny	sadness	0.167
+40768	nice see balotelli back good good player lose way bit	sadness	0.167
+40769	katieburnett ha fresher blue would love ha nice tshirt vote pedro	sadness	0.167
+40770	get cross apple tree pine tree nnothe can not crosspollinate deciduous coniferous tree	sadness	0.146
+40771	please bear twitter savvy real life facebook person help gain follower blog selfhelp	sadness	0.146
+40772	ririmathew even fight laugh probably serious ingrain issue	sadness	0.146
+40773	squidwastaken pfft yeye sucker bright yellow red pink blue come color background haaa	sadness	0.146
+40774	never dull moment talk nell	sadness	0.146
+40775	never dull moment	sadness	0.146
+40776	picoftheday howwhy really n funny picoftheday lol random laugh chair despair funnypics virgin cafe	sadness	0.146
+40777	ebled2 great tournament chair award serious	sadness	0.132
+40778	darbyhogle red one would look super pretty bronzy glowy nude lip makeup look 3rd black would pretty dark lip	sadness	0.125
+40779	pottzgame hmu need player lan next year dm need serious player org	sadness	0.125
+40780	ff elizanealsrock love amp support always eliza neal rock blue music friend	sadness	0.125
+40781	vivienlloyd thank much home stunned happy not think sink yet wow	sadness	0.104
+40782	put winter duvet	sadness	0.104
+40783	silkinside tommyjoeratliff pretty love sky background purple highlight dull color great	sadness	0.088
+40784	bluesfestbyron second artist announcement look good bluesfest2017 blue music byronbay	sadness	0.083
+40785	literally eat creamy pesto pasta top grill chicken sun dry tomato asparagus pine nut every single day life	sadness	0.083
